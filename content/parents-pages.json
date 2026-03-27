@@ -1,0 +1,159 @@
+{
+  "admissions": {
+    "title": {
+      "en": "Admissions",
+      "fr": "Admissions"
+    },
+    "intro": {
+      "en": "Our waiting list is managed by an external organization, La Place 0-5. Please contact them directly for more detailed information.",
+      "fr": "Notre liste d'attente est geree par un organisme externe, La Place 0-5. Veuillez communiquer directement avec eux pour plus de details."
+    },
+    "paragraphs": {
+      "en": [
+        "La Place 0-5 centralizes registration for subsidized Quebec CPEs and many daycares, making it easier for families to find and compare options.",
+        "During transition periods, not all daycares may be listed on La Place 0-5. Families can still use the Quebec daycare map to find contact information for all facilities.",
+        "By bringing daycare services together in one place, the platform helps families make informed decisions according to their needs and location."
+      ],
+      "fr": [
+        "La Place 0-5 centralise l'inscription pour les CPE subventionnes du Quebec et plusieurs garderies, ce qui facilite la comparaison pour les familles.",
+        "Pendant les periodes de transition, certaines garderies peuvent ne pas encore y figurer. Les familles peuvent aussi consulter la carte des services de garde du Quebec.",
+        "En regroupant les services de garde, la plateforme aide les familles a prendre une decision selon leurs besoins et leur secteur."
+      ]
+    },
+    "links": [
+      {
+        "label": {
+          "en": "Register on La Place 0-5",
+          "fr": "S'inscrire sur La Place 0-5"
+        },
+        "url": "https://www.laplace0-5.com/"
+      },
+      {
+        "label": {
+          "en": "Download Policy Manual",
+          "fr": "Telecharger le manuel des politiques"
+        },
+        "url": "../documents/policy-manual.pdf"
+      }
+    ]
+  },
+  "educational-curriculum": {
+    "title": {
+      "en": "Educational Curriculum",
+      "fr": "Programme educatif"
+    },
+    "intro": {
+      "en": "CPE Concordia follows an educational program conform to Ministere de la Famille requirements.",
+      "fr": "Le CPE Concordia suit un programme educatif conforme aux exigences du Ministere de la Famille."
+    },
+    "paragraphs": {
+      "en": [
+        "Our program is based on the belief that children learn through play. Through play experiences, children develop physical, emotional, social, cognitive, and creative skills.",
+        "This philosophy is child-centered rather than teacher-directed, with extended periods of hands-on free play balanced by educator-guided moments such as circle time.",
+        "Children benefit from a balanced daily schedule including quiet and active periods, indoor and outdoor play, whole-group and small-group experiences, and occasional mixed-age activities."
+      ],
+      "fr": [
+        "Notre programme repose sur la conviction que les enfants apprennent par le jeu. Ces experiences de jeu favorisent le developpement physique, emotionnel, social, cognitif et creatif.",
+        "Cette philosophie est centree sur l'enfant plutot que dirigee par l'adulte, avec de longues periodes de jeu libre concretes et des moments guides comme le cercle.",
+        "Les enfants profitent d'un horaire equilibre entre activites calmes et dynamiques, jeux interieurs et exterieurs, activites de groupe et en petits groupes, ainsi que certaines activites d'ages mixtes."
+      ]
+    },
+    "links": [
+      {
+        "label": {
+          "en": "Download Educational Program",
+          "fr": "Telecharger le programme educatif"
+        },
+        "url": "../documents/educational-program.pdf"
+      }
+    ]
+  },
+  "parents-faq": {
+    "title": {
+      "en": "Parents F.A.Q.",
+      "fr": "FAQ des parents"
+    },
+    "intro": {
+      "en": "Please consult our list of most frequently asked questions to help parents get answers and more information regarding our CPE.",
+      "fr": "Consultez notre foire aux questions pour aider les parents a obtenir des reponses et plus d'information sur notre CPE."
+    },
+    "faq": {
+      "en": [
+        {
+          "q": "Where can I get information about the CPE's program before deciding?",
+          "a": "You may download our Educational Program for details about curriculum and pedagogy."
+        },
+        {
+          "q": "Where can I get information about CPE policies?",
+          "a": "You may download our Policy Manual for detailed policies and procedures."
+        },
+        {
+          "q": "How can I register my child at CPE Concordia?",
+          "a": "Please consult our Admissions page and register through La Place 0-5."
+        },
+        {
+          "q": "Does CPE Concordia provide meals?",
+          "a": "Yes. Meals are catered and delivered daily. Detailed nutrition information is provided after registration."
+        },
+        {
+          "q": "Are staff trained in first aid?",
+          "a": "Yes. Educators are regularly trained according to provincial requirements."
+        },
+        {
+          "q": "Do you offer part-time services?",
+          "a": "No. At the moment, part-time care is not offered."
+        },
+        {
+          "q": "Does CPE Concordia have a playground?",
+          "a": "Yes. The centre has both an indoor gym area and an outdoor playground."
+        }
+      ],
+      "fr": [
+        {
+          "q": "Ou puis-je obtenir de l'information sur le programme avant de faire un choix?",
+          "a": "Vous pouvez telecharger notre programme educatif pour en savoir plus sur notre approche pedagogique."
+        },
+        {
+          "q": "Ou puis-je consulter les politiques du CPE?",
+          "a": "Vous pouvez telecharger notre manuel des politiques pour les details complets."
+        },
+        {
+          "q": "Comment inscrire mon enfant au CPE Concordia?",
+          "a": "Consultez la page Admissions et inscrivez-vous via La Place 0-5."
+        },
+        {
+          "q": "Le CPE fournit-il les repas?",
+          "a": "Oui. Les repas sont prepares et livres quotidiennement. Les details nutritionnels sont remis apres l'inscription."
+        },
+        {
+          "q": "Le personnel est-il forme en premiers soins?",
+          "a": "Oui. Les educatrices et educateurs sont regulierement formes selon les exigences provinciales."
+        },
+        {
+          "q": "Offrez-vous un service a temps partiel?",
+          "a": "Non. Le service de garde a temps partiel n'est pas offert actuellement."
+        },
+        {
+          "q": "Le CPE dispose-t-il d'une aire de jeu?",
+          "a": "Oui. Le centre comprend un gymnase interieur et une cour de jeu exterieure."
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": {
+          "en": "Educational Program",
+          "fr": "Programme educatif"
+        },
+        "url": "../documents/educational-program.pdf"
+      },
+      {
+        "label": {
+          "en": "Policy Manual",
+          "fr": "Manuel des politiques"
+        },
+        "url": "../documents/policy-manual.pdf"
+      }
+    ]
+  }
+}

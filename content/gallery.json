@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_6248-275x190.jpg",
+      "alt": {
+        "en": "Our amazing facilities",
+        "fr": "Nos installations"
+      },
+      "caption": {
+        "en": "Our Amazing Facilities",
+        "fr": "Nos installations"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_6245-275x190.jpg",
+      "alt": {
+        "en": "Our educators",
+        "fr": "Nos educatrices et educateurs"
+      },
+      "caption": {
+        "en": "Our Educators",
+        "fr": "Nos educatrices et educateurs"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_6051-275x190.jpg",
+      "alt": {
+        "en": "Play time",
+        "fr": "Moment de jeu"
+      },
+      "caption": {
+        "en": "Play Time",
+        "fr": "Moment de jeu"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_5976-275x190.jpg",
+      "alt": {
+        "en": "Stimulating activities",
+        "fr": "Activites stimulantes"
+      },
+      "caption": {
+        "en": "Stimulating Activities",
+        "fr": "Activites stimulantes"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_5999-275x190.jpg",
+      "alt": {
+        "en": "Outdoor activities",
+        "fr": "Activites exterieures"
+      },
+      "caption": {
+        "en": "Outdoor Activities",
+        "fr": "Activites exterieures"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_6161-275x190.jpg",
+      "alt": {
+        "en": "Having fun",
+        "fr": "Moment de plaisir"
+      },
+      "caption": {
+        "en": "Having Fun",
+        "fr": "Moment de plaisir"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_6077-275x190.jpg",
+      "alt": {
+        "en": "Indoor hockey",
+        "fr": "Hockey interieur"
+      },
+      "caption": {
+        "en": "Indoor Hockey",
+        "fr": "Hockey interieur"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_5918-275x190.jpg",
+      "alt": {
+        "en": "Building and creating",
+        "fr": "Construire et creer"
+      },
+      "caption": {
+        "en": "Building, Creating",
+        "fr": "Construire et creer"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_6129-275x190.jpg",
+      "alt": {
+        "en": "Learning numbers",
+        "fr": "Apprendre les nombres"
+      },
+      "caption": {
+        "en": "Learning Numbers",
+        "fr": "Apprendre les nombres"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_5975-275x190.jpg",
+      "alt": {
+        "en": "Gym and fitness",
+        "fr": "Gym et activites physiques"
+      },
+      "caption": {
+        "en": "Gym and Fitness",
+        "fr": "Gym et activites physiques"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_6223-275x190.jpg",
+      "alt": {
+        "en": "Our playground",
+        "fr": "Notre aire de jeu"
+      },
+      "caption": {
+        "en": "Our Playground",
+        "fr": "Notre aire de jeu"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_6227-275x190.jpg",
+      "alt": {
+        "en": "Classrooms",
+        "fr": "Salles de classe"
+      },
+      "caption": {
+        "en": "Classrooms",
+        "fr": "Salles de classe"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_6208-275x190.jpg",
+      "alt": {
+        "en": "Playground",
+        "fr": "Aire de jeu"
+      },
+      "caption": {
+        "en": "Playground",
+        "fr": "Aire de jeu"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_6201-275x190.jpg",
+      "alt": {
+        "en": "Class activities",
+        "fr": "Activites en classe"
+      },
+      "caption": {
+        "en": "Class Activities",
+        "fr": "Activites en classe"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/DSC_6196-275x190.jpg",
+      "alt": {
+        "en": "Toys and gadgets",
+        "fr": "Jouets et materiel"
+      },
+      "caption": {
+        "en": "Toys and Gadgets",
+        "fr": "Jouets et materiel"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_6137-275x190.jpg",
+      "alt": {
+        "en": "Get organized",
+        "fr": "Devenir autonome"
+      },
+      "caption": {
+        "en": "Get Organized",
+        "fr": "Devenir autonome"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/DSC_5902-275x190.jpg",
+      "alt": {
+        "en": "Activities for every style",
+        "fr": "Activites pour tous les styles"
+      },
+      "caption": {
+        "en": "Activities for Every Style",
+        "fr": "Activites pour tous les styles"
+      }
+    }
+  ]
+}

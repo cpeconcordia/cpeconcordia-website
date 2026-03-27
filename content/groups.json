@@ -1,0 +1,431 @@
+{
+  "ducklings": {
+    "name": {
+      "en": "Ducklings",
+      "fr": "Canetons"
+    },
+    "age": {
+      "en": "18 months to 2 years 1 month",
+      "fr": "18 mois a 2 ans et 1 mois"
+    },
+    "image": "https://web.archive.org/web/20251116052232im_/https://cpeconcordia.ca/wp-content/uploads/2015/03/dreamstime_xl_276937201-e1438872608726.jpg",
+    "description": {
+      "en": "The Ducklings class is led by two educators and offers a positive, safe, and enriched environment where toddlers learn through stories, songs, finger plays, and exploration through play.",
+      "fr": "La classe des Canetons est dirigee par deux educatrices et offre un environnement positif, securitaire et stimulant ou les tout-petits apprennent par les histoires, les chansons, les jeux de doigts et l'exploration par le jeu."
+    },
+    "sections": {
+      "en": [
+        {
+          "title": "Goals and Objectives",
+          "bullets": [
+            "Provide a safe and nurturing environment.",
+            "Support children when they express needs and emotions.",
+            "Encourage social development through play and activities.",
+            "Introduce French and English vocabulary throughout the day.",
+            "Stay available to parents for questions and concerns."
+          ]
+        },
+        {
+          "title": "Our Program",
+          "text": "The program offers opportunities for children to grow in every developmental domain.",
+          "bullets": [
+            "Social emotional: play with others and develop empathy.",
+            "Self-help: dressing, undressing, eating, and toileting.",
+            "Fine motor: puzzles, lacing, play dough, and hand control.",
+            "Gross motor: climbing, running, jumping, and stairs.",
+            "Cognitive: following instructions and problem solving.",
+            "Language: basic English and French words and early phonemic awareness."
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "title": "Objectifs",
+          "bullets": [
+            "Offrir un environnement securitaire et bienveillant.",
+            "Soutenir l'expression des besoins et des emotions.",
+            "Favoriser le developpement social par le jeu.",
+            "Introduire le vocabulaire francais et anglais chaque jour.",
+            "Rester disponibles pour les questions des parents."
+          ]
+        },
+        {
+          "title": "Programme",
+          "text": "Le programme offre des occasions d'apprentissage dans tous les domaines du developpement.",
+          "bullets": [
+            "Socio-emotionnel: jouer avec les autres et developper l'empathie.",
+            "Autonomie: s'habiller, manger et aller aux toilettes.",
+            "Motricite fine: casse-tetes, lacage, pate a modeler.",
+            "Motricite globale: grimper, courir, sauter, monter les escaliers.",
+            "Cognitif: suivre des consignes et resoudre de petits problemes.",
+            "Langage: vocabulaire de base en anglais et en francais."
+          ]
+        }
+      ]
+    }
+  },
+  "busy-bees": {
+    "name": {
+      "en": "Busy Bees",
+      "fr": "Abeilles"
+    },
+    "age": {
+      "en": "2 years 2 months to 2 years 8 months",
+      "fr": "2 ans et 2 mois a 2 ans et 8 mois"
+    },
+    "image": "https://web.archive.org/web/20251210170139im_/https://cpeconcordia.ca/wp-content/uploads/2015/06/DSC_6094-e1438874894852.jpg",
+    "description": {
+      "en": "The Busy Bees class serves two-year-olds with two qualified educators in a warm, safe, and stimulating setting focused on exploration, social interaction, and growing independence.",
+      "fr": "La classe des Abeilles accueille les enfants de deux ans avec deux educatrices qualifiees dans un milieu chaleureux, securitaire et stimulant axe sur l'exploration, les interactions sociales et l'autonomie."
+    },
+    "sections": {
+      "en": [
+        {
+          "title": "The Two's Schedule",
+          "bullets": [
+            "Morning and afternoon circle time with songs, stories, games, and themes.",
+            "Free play in theme-related learning centers.",
+            "Daily routines including toileting, snack, and classroom transitions.",
+            "Lunch and nap time for rest and nourishment.",
+            "Outdoor play twice a day for gross motor development."
+          ]
+        },
+        {
+          "title": "Main Goals",
+          "text": "Provide a warm and stimulating learning environment and help children develop language, listening, sharing, and cooperative skills through play."
+        },
+        {
+          "title": "Goals and Objectives",
+          "bullets": [
+            "Physical: large and small motor skills, hand-eye coordination.",
+            "Social: independence, self-esteem, and positive peer interaction.",
+            "Emotional: identify and express feelings and feel secure in daycare.",
+            "Self-help: routines, dressing, toileting, and eating autonomy.",
+            "Cognitive and language: shapes, colors, books, speech, creativity through music, art, and dramatic play."
+          ]
+        },
+        {
+          "title": "Educator Goals",
+          "bullets": [
+            "Provide a safe, secure, and interesting environment.",
+            "Build comfort and confidence away from home.",
+            "Offer tools for each child to excel at their own pace.",
+            "Encourage participation in age-appropriate experiences.",
+            "Promote self-help through positive modelling and repetition."
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "title": "Horaire du groupe des deux ans",
+          "bullets": [
+            "Cercle du matin et de l'apres-midi avec chansons, histoires, jeux et themes.",
+            "Jeu libre dans des centres d'apprentissage thematiques.",
+            "Routines quotidiennes: toilette, collation, transitions.",
+            "Diner et sieste pour nourrir et reposer l'enfant.",
+            "Jeu exterieur deux fois par jour pour la motricite globale."
+          ]
+        },
+        {
+          "title": "Objectif principal",
+          "text": "Offrir un milieu chaleureux et stimulant et soutenir le developpement du langage, de l'ecoute, du partage et de la cooperation par le jeu."
+        },
+        {
+          "title": "Objectifs de developpement",
+          "bullets": [
+            "Physique: motricite globale et fine, coordination oeil-main.",
+            "Social: autonomie, estime de soi, interactions positives.",
+            "Emotionnel: identifier et exprimer les emotions, se sentir en securite.",
+            "Autonomie: routines, habillement, toilette, repas.",
+            "Cognitif et langage: formes, couleurs, livres, expression, creativite."
+          ]
+        }
+      ]
+    }
+  },
+  "ladybugs": {
+    "name": {
+      "en": "Ladybugs",
+      "fr": "Coccinelles"
+    },
+    "age": {
+      "en": "2 years 9 months to 3 years 3 months",
+      "fr": "2 ans et 9 mois a 3 ans et 3 mois"
+    },
+    "image": "https://web.archive.org/web/20251116060712im_/https://cpeconcordia.ca/wp-content/uploads/2015/06/DSC_5972-e1438875473330.jpg",
+    "description": {
+      "en": "The Ladybugs class provides a secure, inviting, stimulating, and fun environment where children build independence and self-esteem at their own pace.",
+      "fr": "La classe des Coccinelles offre un environnement securitaire, accueillant, stimulant et amusant ou les enfants developpent leur autonomie et leur estime de soi a leur rythme."
+    },
+    "sections": {
+      "en": [
+        {
+          "title": "Goals and Objectives",
+          "bullets": [
+            "Develop self-help skills: toileting, dressing, eating, sleeping.",
+            "Promote social skills: sharing, turn-taking, listening, respect.",
+            "Expand language skills: vocabulary, articulation, self-expression.",
+            "Develop fine and gross motor skills."
+          ]
+        },
+        {
+          "title": "Our Program",
+          "text": "Children are exposed to varied activities through free play, morning circle in English, and afternoon circle in French.",
+          "bullets": [
+            "French introduced through songs, stories, circle time, and daily routines.",
+            "Vocabulary includes numbers, alphabet, days, body parts, and colors.",
+            "Learning centers include drama, science, language, writing, and fine motor.",
+            "Activities stimulate curiosity, imagination, creativity, language, socialization, and problem solving."
+          ]
+        },
+        {
+          "title": "Minipally / Brindami",
+          "text": "Starting in mid-September, the class participates every two weeks in workshops supporting social-emotional development, self-esteem, and self-control."
+        }
+      ],
+      "fr": [
+        {
+          "title": "Objectifs",
+          "bullets": [
+            "Developper l'autonomie: toilette, habillement, repas, sommeil.",
+            "Favoriser les habiletes sociales: partage, tour de role, ecoute, respect.",
+            "Enrichir le langage: vocabulaire, articulation, expression.",
+            "Developper la motricite fine et globale."
+          ]
+        },
+        {
+          "title": "Programme",
+          "text": "Les enfants participent a des activites variees en jeu libre, cercle du matin en anglais et cercle de l'apres-midi en francais.",
+          "bullets": [
+            "Le francais est introduit par les chansons, histoires, routines et activites quotidiennes.",
+            "Vocabulaire travaille: nombres, alphabet, jours, parties du corps, couleurs.",
+            "Centres d'apprentissage: dramatique, science, langage, ecriture, motricite fine.",
+            "Les activites stimulent curiosite, imagination, creativite, langage et resolution de problemes."
+          ]
+        }
+      ]
+    }
+  },
+  "teddy-bears": {
+    "name": {
+      "en": "Teddy Bears",
+      "fr": "Oursons"
+    },
+    "age": {
+      "en": "3 years 4 months to 3 years 10 months",
+      "fr": "3 ans et 4 mois a 3 ans et 10 mois"
+    },
+    "image": "https://web.archive.org/web/20251116070742im_/https://cpeconcordia.ca/wp-content/uploads/2014/11/teddy-bear-set.jpg",
+    "description": {
+      "en": "The Teddy Bears class is led by two educators and focuses on developing the whole child through a bilingual, structured, and play-rich program.",
+      "fr": "La classe des Oursons est dirigee par deux educatrices et mise sur le developpement global de l'enfant grace a un programme bilingue, structure et riche en jeu."
+    },
+    "sections": {
+      "en": [
+        {
+          "title": "Welcome Notes for Families",
+          "bullets": [
+            "Encourage children to dress independently (indoor and outdoor clothing).",
+            "Use Velcro shoes when possible.",
+            "Bring a small pillow and blanket for rest time.",
+            "During circle time, please wait for an educator to assist transitions."
+          ]
+        },
+        {
+          "title": "Goals and Objectives",
+          "bullets": [
+            "Make school experience positive and confidence-building.",
+            "Stimulate curiosity, understanding, and thought processes.",
+            "Encourage sharing, cooperation, and self-expression.",
+            "Support independence, safety, and creative development.",
+            "Maintain frequent communication with parents."
+          ]
+        },
+        {
+          "title": "Our Program",
+          "text": "A bilingual structured program that nurtures cognitive, emotional, social, fine-motor, and gross-motor development, with meaningful free play and guided play.",
+          "bullets": [
+            "Intellectual development: problem solving, communication, concept discovery.",
+            "Social development: cooperation, negotiation, group participation.",
+            "Physical development: cutting, drawing, dressing, movement and dance.",
+            "Emotional and creative development: choice, risk-taking, expression, and creation."
+          ]
+        },
+        {
+          "title": "Guidelines",
+          "bullets": [
+            "French immersion through songs, instructions, and theme-based vocabulary.",
+            "Circle time introduces new vocabulary and collective learning.",
+            "Consistent routines support security and school readiness.",
+            "Free play supports functional, constructive, and dramatic play."
+          ]
+        },
+        {
+          "title": "Minipally / Brindami",
+          "text": "Starting in mid-September, workshops are offered every two weeks to support social-emotional growth, self-esteem, and self-control."
+        }
+      ],
+      "fr": [
+        {
+          "title": "Accueil et informations aux familles",
+          "bullets": [
+            "Encourager l'enfant a s'habiller seul a l'interieur et a l'exterieur.",
+            "Privilegier des chaussures a velcro.",
+            "Apporter une petite couverture et un petit oreiller pour le repos.",
+            "Pendant le cercle, attendre l'aide d'une educatrice pour les transitions."
+          ]
+        },
+        {
+          "title": "Objectifs",
+          "bullets": [
+            "Rendre l'experience prescolaire positive et valorisante.",
+            "Stimuler curiosite, comprehension et reflexion.",
+            "Encourager partage, cooperation et expression de soi.",
+            "Soutenir autonomie, securite et creativite.",
+            "Maintenir une communication frequente avec les parents."
+          ]
+        },
+        {
+          "title": "Programme",
+          "text": "Programme bilingue structure qui favorise le developpement cognitif, emotionnel, social, moteur fin et global, avec jeu libre et jeu guide.",
+          "bullets": [
+            "Intellectuel: resoudre des problemes et communiquer.",
+            "Social: cooperer, negocier, participer en groupe.",
+            "Physique: dessiner, decouper, s'habiller, bouger.",
+            "Emotionnel et creatif: faire des choix, s'exprimer, creer."
+          ]
+        }
+      ]
+    }
+  },
+  "butterflies": {
+    "name": {
+      "en": "Butterflies",
+      "fr": "Papillons"
+    },
+    "age": {
+      "en": "3 years 11 months to 4 years 4 months",
+      "fr": "3 ans et 11 mois a 4 ans et 4 mois"
+    },
+    "image": "https://web.archive.org/web/20251116055832im_/https://cpeconcordia.ca/wp-content/uploads/2015/09/fff.png",
+    "description": {
+      "en": "The Butterflies class is led by three educators and helps children prepare for kindergarten through bilingual learning, social-emotional growth, and structured thematic activities.",
+      "fr": "La classe des Papillons est dirigee par trois educatrices et prepare les enfants a la maternelle grace a des apprentissages bilingues, socio-emotionnels et des activites thematiques structurees."
+    },
+    "sections": {
+      "en": [
+        {
+          "title": "Welcome",
+          "text": "September can be exciting and challenging. The team works with families to make each day positive and to support school readiness.",
+          "bullets": [
+            "Complete and return forms quickly.",
+            "Prioritize hearing and vision checkups.",
+            "Support fine motor skills at home (playdough, cutting, coloring).",
+            "Teach hygiene routines and keep communication open.",
+            "Stay involved in your child's learning and trust the teaching team."
+          ]
+        },
+        {
+          "title": "Goals and Objectives",
+          "text": "The French program integrates cognitive, physical, creative, and social-emotional development areas.",
+          "bullets": [
+            "Cognitive: French vocabulary, letters, shapes, colors, numbers 1-20, critical thinking.",
+            "Physical: balance, hopping, skipping, climbing, throwing, and coordination.",
+            "Creative: art materials, 2D/3D creation, science and math exploration, dramatic play.",
+            "Social-emotional: empathy, conflict resolution, turn taking, self-esteem."
+          ]
+        },
+        {
+          "title": "Minipally / Brindami",
+          "text": "Bi-weekly workshops begin in mid-September to strengthen social-emotional development, self-esteem, and self-control."
+        }
+      ],
+      "fr": [
+        {
+          "title": "Accueil",
+          "text": "Le mois de septembre peut etre excitant et parfois exigeant. L'equipe collabore avec les familles pour une adaptation positive et une bonne preparation scolaire.",
+          "bullets": [
+            "Completer et remettre les formulaires rapidement.",
+            "Favoriser les verifications de la vue et de l'audition.",
+            "Travailler la motricite fine a la maison.",
+            "Renforcer l'hygiene et maintenir une bonne communication.",
+            "S'impliquer activement dans les apprentissages de l'enfant."
+          ]
+        },
+        {
+          "title": "Objectifs",
+          "text": "Le programme de francais integre les volets cognitif, physique, creatif et socio-emotionnel.",
+          "bullets": [
+            "Cognitif: vocabulaire francais, lettres, formes, couleurs, nombres, reflexion.",
+            "Physique: equilibre, saut, coordination, grimper, lancer.",
+            "Creatif: arts, creations 2D/3D, exploration scientifique et mathematique.",
+            "Socio-emotionnel: empathie, gestion des conflits, tour de role, estime de soi."
+          ]
+        }
+      ]
+    }
+  },
+  "penguins": {
+    "name": {
+      "en": "Penguins",
+      "fr": "Pingouins"
+    },
+    "age": {
+      "en": "4 years 5 months to 4 years 11 months",
+      "fr": "4 ans et 5 mois a 4 ans et 11 mois"
+    },
+    "image": "https://web.archive.org/web/20251210185719im_/https://cpeconcordia.ca/wp-content/uploads/2015/06/DSC_5934.jpg",
+    "description": {
+      "en": "The Penguins class is led by two educators and supports kindergarten readiness through play-oriented learning, bilingual exposure, and social-emotional development.",
+      "fr": "La classe des Pingouins est dirigee par deux educatrices et soutient la preparation a la maternelle par un apprentissage axe sur le jeu, une exposition bilingue et le developpement socio-emotionnel."
+    },
+    "sections": {
+      "en": [
+        {
+          "title": "Our Program",
+          "text": "Children learn concepts through circle time, songs, games, stories, and varied learning centers including art, books, science, math, writing, and drama.",
+          "bullets": [
+            "French sounds and vocabulary are introduced gradually.",
+            "Children explore and experiment in small groups at their own level.",
+            "Learning is play-oriented and theme-based."
+          ]
+        },
+        {
+          "title": "Goals and Objectives",
+          "bullets": [
+            "Promote fine and gross motor development.",
+            "Encourage self-help skills and autonomy.",
+            "Support prosocial skills, empathy, and respectful interaction.",
+            "Develop confidence, self-esteem, and responsibility.",
+            "Build problem solving and positive attitudes toward learning."
+          ]
+        },
+        {
+          "title": "Second Step Program",
+          "text": "Second Step helps children prepare for kindergarten by developing learning skills, empathy, emotion management, and friendship/problem-solving skills. Home links are sent for family activities."
+        }
+      ],
+      "fr": [
+        {
+          "title": "Programme",
+          "text": "Les enfants apprennent par le cercle, les chansons, les jeux, les histoires et des centres d'apprentissage varies (art, science, maths, ecriture, dramatique).",
+          "bullets": [
+            "Le vocabulaire et les sons francais sont introduits graduellement.",
+            "Les enfants explorent a leur rythme en petits groupes.",
+            "L'apprentissage est thematique et base sur le jeu."
+          ]
+        },
+        {
+          "title": "Objectifs",
+          "bullets": [
+            "Developper la motricite fine et globale.",
+            "Encourager l'autonomie et les habiletes de vie quotidienne.",
+            "Renforcer les habiletes sociales, l'empathie et le respect.",
+            "Developper la confiance en soi et la responsabilite.",
+            "Favoriser la resolution de problemes et le gout d'apprendre."
+          ]
+        }
+      ]
+    }
+  }
+}

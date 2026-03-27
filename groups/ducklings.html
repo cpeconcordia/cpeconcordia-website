@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Concordia CPE group details and age information."
+    />
+    <title>Ducklings | Concordia CPE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Playfair+Display:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body data-group-id="ducklings">
+    <header class="site-header" id="top">
+      <div class="container nav-wrap">
+        <a class="brand" href="../index.html#top" aria-label="Concordia CPE home" data-i18n-aria-label="brandAriaLabel">
+          <span class="brand-badge">CPE</span>
+          <span class="brand-text">
+            <strong>Concordia CPE</strong>
+            <small data-i18n="brandTagline">Learning Through Play</small>
+          </span>
+        </a>
+
+        <div class="header-controls">
+          <div class="lang-toggle" role="group" aria-label="Language selector" data-i18n-aria-label="languageSelector">
+            <button class="lang-btn is-active" type="button" data-lang="en">EN</button>
+            <button class="lang-btn" type="button" data-lang="fr">FR</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="group-page-main">
+      <section class="section">
+        <div class="container group-page-wrap">
+          <p class="group-breadcrumb">
+            <a href="../index.html#groups">Groups</a> / <span id="groupBreadcrumbName">Ducklings</span>
+          </p>
+          <h1 id="groupTitle">Ducklings</h1>
+          <p class="group-age"><strong id="groupAgeLabel">Age range</strong>: <span id="groupAge"></span></p>
+          <div class="group-page-layout">
+            <article class="group-main-column">
+              <img id="groupImage" class="group-image" src="" alt="Ducklings group" loading="lazy" />
+              <p id="groupDescription"></p>
+              <div id="groupSections" class="group-sections"></div>
+              <a id="backHomeLink" class="btn btn-ghost" href="../index.html#groups">Back to Home</a>
+            </article>
+
+            <aside class="group-side-column">
+              <section class="group-side-card">
+                <h3 id="groupNavTitle">Group navigation</h3>
+                <p><a id="prevGroupLink" href="#"></a></p>
+                <p><a id="nextGroupLink" href="#"></a></p>
+              </section>
+            </aside>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="../group-page.js"></script>
+  </body>
+</html>
