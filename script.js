@@ -4,6 +4,10 @@ const mainContent = document.getElementById("main");
 const langButtons = document.querySelectorAll(".lang-btn");
 const filterButtons = document.querySelectorAll(".filter-btn");
 const galleryGrid = document.getElementById("galleryGrid");
+const galleryLightbox = document.getElementById("galleryLightbox");
+const galleryLightboxImage = document.getElementById("galleryLightboxImage");
+const galleryLightboxCaption = document.getElementById("galleryLightboxCaption");
+const galleryLightboxClose = document.getElementById("galleryLightboxClose");
 const metaDescription = document.querySelector("meta[name='description']");
 
 const contentState = {
@@ -38,6 +42,33 @@ function dictionaryForLanguage(lang) {
   return contentState.translations[lang] || contentState.translations.en || {};
 }
 
+function openGalleryLightbox(src, altText, captionText) {
+  if (!galleryLightbox || !galleryLightboxImage || !galleryLightboxCaption) {
+    return false;
+  }
+
+  galleryLightboxImage.src = src;
+  galleryLightboxImage.alt = altText;
+  galleryLightboxCaption.textContent = captionText || "";
+  galleryLightbox.classList.add("is-open");
+  galleryLightbox.setAttribute("aria-hidden", "false");
+  document.body.classList.add("lightbox-open");
+  return true;
+}
+
+function closeGalleryLightbox() {
+  if (!galleryLightbox || !galleryLightboxImage || !galleryLightboxCaption) {
+    return;
+  }
+
+  galleryLightbox.classList.remove("is-open");
+  galleryLightbox.setAttribute("aria-hidden", "true");
+  galleryLightboxImage.src = "";
+  galleryLightboxImage.alt = "";
+  galleryLightboxCaption.textContent = "";
+  document.body.classList.remove("lightbox-open");
+}
+
 function renderGallery() {
   if (!galleryGrid) {
     return;
@@ -57,6 +88,11 @@ function renderGallery() {
     figure.className = "gallery-item";
     figure.dataset.gallery = item.category;
 
+    const imageLink = document.createElement("a");
+    imageLink.className = "gallery-open";
+    imageLink.href = item.src;
+    imageLink.target = "_self";
+
     const image = document.createElement("img");
     image.src = item.src;
     image.loading = "lazy";
@@ -65,7 +101,16 @@ function renderGallery() {
     const caption = document.createElement("figcaption");
     caption.textContent = item.caption?.[lang] || item.caption?.en || "";
 
-    figure.appendChild(image);
+    imageLink.appendChild(image);
+
+    imageLink.addEventListener("click", (event) => {
+      const isLightboxOpen = openGalleryLightbox(item.src, image.alt, caption.textContent);
+      if (isLightboxOpen) {
+        event.preventDefault();
+      }
+    });
+
+    figure.appendChild(imageLink);
     figure.appendChild(caption);
     fragment.appendChild(figure);
   });
@@ -169,6 +214,27 @@ filterButtons.forEach((button) => {
     const selectedFilter = button.dataset.filter;
     setActiveFilter(selectedFilter);
   });
+});
+
+galleryLightboxClose?.addEventListener("click", () => {
+  closeGalleryLightbox();
+});
+
+galleryLightbox?.addEventListener("click", (event) => {
+  const target = event.target;
+  if (!(target instanceof Element)) {
+    return;
+  }
+
+  if (target.hasAttribute("data-close-lightbox")) {
+    closeGalleryLightbox();
+  }
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && galleryLightbox?.classList.contains("is-open")) {
+    closeGalleryLightbox();
+  }
 });
 
 if (menuToggle && siteNav) {

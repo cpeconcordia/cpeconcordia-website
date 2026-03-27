@@ -231,6 +231,15 @@
         </div>
       </section>
 
+      <div class="gallery-lightbox" id="galleryLightbox" aria-hidden="true">
+        <div class="gallery-lightbox-backdrop" data-close-lightbox="true"></div>
+        <div class="gallery-lightbox-dialog" role="dialog" aria-modal="true" aria-label="Image preview">
+          <button class="gallery-lightbox-close" type="button" id="galleryLightboxClose" aria-label="Close image" data-i18n-aria-label="galleryLightboxCloseAria">×</button>
+          <img id="galleryLightboxImage" src="" alt="" />
+          <p id="galleryLightboxCaption"></p>
+        </div>
+      </div>
+
       <section id="contact" class="section section-contact">
         <div class="container contact-grid">
           <article class="contact-card reveal">

@@ -648,6 +648,15 @@ p {
   display: none;
 }
 
+.gallery-open {
+  display: block;
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  cursor: zoom-in;
+}
+
 .gallery-item img {
   border-radius: 14px;
   min-height: 220px;
@@ -655,11 +664,80 @@ p {
   box-shadow: none;
 }
 
+.gallery-open:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--accent) 45%, white);
+  outline-offset: 2px;
+}
+
 .gallery-item figcaption {
   padding: 0.6rem 0.75rem 0.7rem;
   color: var(--ink-soft);
   font-size: 0.85rem;
   font-weight: 600;
+}
+
+body.lightbox-open {
+  overflow: hidden;
+}
+
+.gallery-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: none;
+}
+
+.gallery-lightbox.is-open {
+  display: grid;
+  place-items: center;
+}
+
+.gallery-lightbox-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(19, 27, 36, 0.78);
+}
+
+.gallery-lightbox-dialog {
+  position: relative;
+  z-index: 1;
+  width: min(92vw, 1080px);
+  max-height: 88vh;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 0.8rem 0.8rem 0.65rem;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.gallery-lightbox-dialog img {
+  width: 100%;
+  max-height: calc(88vh - 110px);
+  object-fit: contain;
+  border-radius: 12px;
+  background: #f2f2f2;
+}
+
+.gallery-lightbox-dialog p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.gallery-lightbox-close {
+  position: absolute;
+  top: 0.35rem;
+  right: 0.35rem;
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  font-size: 1.35rem;
+  line-height: 1;
+  cursor: pointer;
 }
 
 .contact-grid {
