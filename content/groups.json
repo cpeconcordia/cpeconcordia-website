@@ -10,31 +10,33 @@
     },
     "image": "https://web.archive.org/web/20251116052232im_/https://cpeconcordia.ca/wp-content/uploads/2015/03/dreamstime_xl_276937201-e1438872608726.jpg",
     "description": {
-      "en": "The Ducklings class is led by two educators and offers a positive, safe, and enriched environment where toddlers learn through stories, songs, finger plays, and exploration through play.",
+      "en": "",
       "fr": "La classe des Canetons est dirigee par deux educatrices et offre un environnement positif, securitaire et stimulant ou les tout-petits apprennent par les histoires, les chansons, les jeux de doigts et l'exploration par le jeu."
     },
     "sections": {
       "en": [
         {
-          "title": "Goals and Objectives",
+          "title": "WELCOME TO THE DUCKLINGS CLASS!",
+          "text": "Our philosophy is to promote a positive, safe and enriched environment which is conducive to learning and that will meet each child's needs. We do this through the use of stories, songs, finger-plays and most of all Play. Letting the children explore the toys, materials and downright get dirty."
+        },
+        {
+          "title": "Our Goals and Objectives for the Ducklings Class:",
           "bullets": [
-            "Provide a safe and nurturing environment.",
-            "Support children when they express needs and emotions.",
-            "Encourage social development through play and activities.",
-            "Introduce French and English vocabulary throughout the day.",
-            "Stay available to parents for questions and concerns."
+            "To provide a safe, nurturing environment.",
+            "To support the children when they are expressing their needs and emotions.",
+            "To encourage social development through play and activities.",
+            "To introduce both French and English vocabulary throughout the day."
           ]
         },
         {
-          "title": "Our Program",
-          "text": "The program offers opportunities for children to grow in every developmental domain.",
+          "text": "As part of our program, we also provide ample opportunities for the children to learn in each developmental domain:",
           "bullets": [
-            "Social emotional: play with others and develop empathy.",
-            "Self-help: dressing, undressing, eating, and toileting.",
-            "Fine motor: puzzles, lacing, play dough, and hand control.",
-            "Gross motor: climbing, running, jumping, and stairs.",
-            "Cognitive: following instructions and problem solving.",
-            "Language: basic English and French words and early phonemic awareness."
+            "Social emotional: playing with others and feel compassion when a friend is sad (empathy).",
+            "Self-help skills: dressing/undressing, eating, toileting, all things to help the child be more independent.",
+            "Fine motor skills: doing puzzles, lacing, play dough, activities that help control the small muscles in the hands.",
+            "Gross motor skills: using the big muscles in the body to climb, run and jump, as well as, go up and down stairs.",
+            "Cognitive: following basic instructions, learning cause and effect and some problem solving.",
+            "Language: to learn phonemic awareness and to pick up basic words to communicate in both English and French."
           ]
         }
       ],
