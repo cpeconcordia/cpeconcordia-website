@@ -77,43 +77,80 @@
     },
     "image": "https://web.archive.org/web/20251210170139im_/https://cpeconcordia.ca/wp-content/uploads/2015/06/DSC_6094-e1438874894852.jpg",
     "description": {
-      "en": "The Busy Bees class serves two-year-olds with two qualified educators in a warm, safe, and stimulating setting focused on exploration, social interaction, and growing independence.",
+      "en": "The Busy Bees provides services for children aged between two years and two months to two years and eight months and it is led by two educators.",
       "fr": "La classe des Abeilles accueille les enfants de deux ans avec deux educatrices qualifiees dans un milieu chaleureux, securitaire et stimulant axe sur l'exploration, les interactions sociales et l'autonomie."
     },
     "sections": {
       "en": [
         {
+          "title": "Welcome!",
+          "text": "WELCOME TO THE BUSY BEES CLASS! Our name says it all. Welcome to new experiences. Our two's group use hand-on exploration and social interaction in a safe, warm and stimulating environment to help them learn about their expanding world. Through the loving guidance and support of two qualified educators, the young learners explore and experience the environment around them. The educators support the children as they assert their independence, experiment with socializing and learning new skills."
+        },
+        {
           "title": "The Two's Schedule",
           "bullets": [
-            "Morning and afternoon circle time with songs, stories, games, and themes.",
-            "Free play in theme-related learning centers.",
-            "Daily routines including toileting, snack, and classroom transitions.",
-            "Lunch and nap time for rest and nourishment.",
-            "Outdoor play twice a day for gross motor development."
+            "Morning and Afternoon Circle Time: The weekly or bi-weekly theme-activities are introduced (singing, dancing, listening to stories and playing games).",
+            "Activities in the Learning Centers: Free-play in the different theme-related learning centers.",
+            "Routines: Daily Routines/Toileting Routines /Snack/Free-play in classroom.",
+            "Lunch and nap time: To nourish and to rest your child's growing mind and growing body.",
+            "Outdoor play: Play twice a day to release their abundance of energy and to develop their gross motor skills."
           ]
         },
         {
-          "title": "Main Goals",
-          "text": "Provide a warm and stimulating learning environment and help children develop language, listening, sharing, and cooperative skills through play."
+          "title": "Main Goals for this Group",
+          "text": "To provide a warm and stimulating learning environment. To help them develop skills (language, listening, sharing, working together and learning through play)."
         },
         {
-          "title": "Goals and Objectives",
+          "title": "Goals and Objectives"
+        },
+        {
+          "title": "Physical Development:",
           "bullets": [
-            "Physical: large and small motor skills, hand-eye coordination.",
-            "Social: independence, self-esteem, and positive peer interaction.",
-            "Emotional: identify and express feelings and feel secure in daycare.",
-            "Self-help: routines, dressing, toileting, and eating autonomy.",
-            "Cognitive and language: shapes, colors, books, speech, creativity through music, art, and dramatic play."
+            "Large motor: To encourage movement through a variety of indoor/outdoor play activities.",
+            "Small motor: To provide and encourage hand-eye coordination (beads, cutting, lacing).",
+            "Eye-hand coordination: To encourage children to use toys, books and other tools."
           ]
         },
         {
-          "title": "Educator Goals",
+          "title": "Social Development:",
           "bullets": [
-            "Provide a safe, secure, and interesting environment.",
-            "Build comfort and confidence away from home.",
-            "Offer tools for each child to excel at their own pace.",
-            "Encourage participation in age-appropriate experiences.",
-            "Promote self-help through positive modelling and repetition."
+            "Independence: To provide choices, to encourage self-motivation, and to promote social skills through interaction with peers and with adults.",
+            "Self-Esteem: To provide positive reinforcement and to encourage self-exploration through sharing of feelings, stories and dramatic play.",
+            "Social experiences: To provide opportunities for and to encourage positive social experiences with friends and with adults, keeping in mind the age and developmental stages."
+          ]
+        },
+        {
+          "title": "Emotional Development:",
+          "bullets": [
+            "Feelings: To provide words of an emotional nature that can be used to label and to identify feelings as teachers talk with young children.",
+            "Self-Esteem: To help identify and to express some feelings(happy, sad, angry...) that children feel.",
+            "Social experiences: To provide opportunities and to encourage children to express themselves through social interactions with friends and with adults.",
+            "Daycare Environment: To install a feeling of comfort and security associated with the daycare setting."
+          ]
+        },
+        {
+          "title": "Self-Help Skills:",
+          "bullets": [
+            "Routines: To familiarize the child with the basic routines carried throughout the day and to have these routines followed with as much ease as possible.",
+            "Repetition: To promote age-appropriate self-help skills (i.e. eating, toileting, dressing, undressing by oneself) through modelling and through repetition."
+          ]
+        },
+        {
+          "title": "Cognitive Development:",
+          "bullets": [
+            "Language: To encourage speech through free-play in different centers, circle time (large group, small group or individual).",
+            "Cognitive: To promote the exploration of shapes, colors, books, and matching games.",
+            "Creative: To encourage creativity through music activities, art activities, dancing activities and dramatic play."
+          ]
+        },
+        {
+          "title": "Educator's Goals",
+          "bullets": [
+            "To provide a safe, secure and interesting environment.",
+            "To instill a feeling of confort and security associated with the daycare setting where the children feel comfortable while they are away from their family and their home.",
+            "To provide a learning environment here the children have the tools to excel at their own pace.",
+            "To encourage participation in various age-appropriate experiences (i.e.: music, painting, gross/fine motor etc...)which are both beneficial and enjoyable to the child through manipulation, imitation and repetition.",
+            "To promote age-appropriate self-help skills through positive encouragement, modelling and repetition."
           ]
         }
       ],
@@ -156,33 +193,44 @@
     },
     "image": "https://web.archive.org/web/20251116060712im_/https://cpeconcordia.ca/wp-content/uploads/2015/06/DSC_5972-e1438875473330.jpg",
     "description": {
-      "en": "The Ladybugs class provides a secure, inviting, stimulating, and fun environment where children build independence and self-esteem at their own pace.",
+      "en": "The Ladybugs provides services for children aged between two years and nine months to three years and three months and it is led by two educators.",
       "fr": "La classe des Coccinelles offre un environnement securitaire, accueillant, stimulant et amusant ou les enfants developpent leur autonomie et leur estime de soi a leur rythme."
     },
     "sections": {
       "en": [
         {
-          "title": "Goals and Objectives",
+          "title": "Welcome!"
+        },
+        {
+          "title": "WELCOME TO THE LADY BUGS CLASS!",
+          "text": "The Ladybugs program is conducted in a secure environment that is inviting, stimulating, relaxed and fun. This warm and comfortable environment enables each child to develop a sense of independence and self-esteem at their own pace while acquiring life-long skills."
+        },
+        {
+          "title": "Goals and Objectives"
+        },
+        {
+          "title": "Our Goals and Objectives for the Lady Bugs Class:",
           "bullets": [
-            "Develop self-help skills: toileting, dressing, eating, sleeping.",
-            "Promote social skills: sharing, turn-taking, listening, respect.",
-            "Expand language skills: vocabulary, articulation, self-expression.",
-            "Develop fine and gross motor skills."
+            "Develop and enhance self-help skills (toileting, dressing, eating and sleeping).",
+            "Promote social skills (sharing, turn taking, listening and respecting others).",
+            "Expand language skills (build vocabulary, articulation and self-expression).",
+            "Develop and enhance fine and gross motor skills (manipulation of materials and physical agility)."
           ]
         },
         {
           "title": "Our Program",
-          "text": "Children are exposed to varied activities through free play, morning circle in English, and afternoon circle in French.",
+          "text": "The children in this group are exposed to a wide variety of interesting and fun activities. These activities take place throughout the day during free play, during both English and French circles. Free play is comprised of unstructured hands-on activities plus arts and crafts the children are free to explore at their leisure. Circle time consist of group discussions, stories, songs, games music as well as gross motor activities such as dancing and movement. The main objective for this program is to familiarize the children with both languages so as to enable them to acquire vocabulary at their own pace. This is done through instructions during our daily routines, transition and through interaction in the different learning centers. During circle, the children are encouraged to discuss and interact with one another and with their educators. Apart from the circle, the children are exposed to various learning centers such as drama, science, language, drawing/writing and fine motor. In these centers, materials and activities are made available to them to:",
           "bullets": [
-            "French introduced through songs, stories, circle time, and daily routines.",
-            "Vocabulary includes numbers, alphabet, days, body parts, and colors.",
-            "Learning centers include drama, science, language, writing, and fine motor.",
-            "Activities stimulate curiosity, imagination, creativity, language, socialization, and problem solving."
+            "Stimulate their senses",
+            "Feed their curiosity",
+            "Expand imagination and develop analytic thinking",
+            "Increase creativity and artistic skills",
+            "Increase general knowledge",
+            "Socialize and interact",
+            "Develop language skills",
+            "Problem solving and sharing",
+            "These activities are done through free play in a fun and safe environment."
           ]
-        },
-        {
-          "title": "Minipally / Brindami",
-          "text": "Starting in mid-September, the class participates every two weeks in workshops supporting social-emotional development, self-esteem, and self-control."
         }
       ],
       "fr": [
@@ -219,52 +267,46 @@
     },
     "image": "https://web.archive.org/web/20251116070742im_/https://cpeconcordia.ca/wp-content/uploads/2014/11/teddy-bear-set.jpg",
     "description": {
-      "en": "The Teddy Bears class is led by two educators and focuses on developing the whole child through a bilingual, structured, and play-rich program.",
+      "en": "The Teddy Bears provides services for children aged between three years and four months to three years and ten months and it is led by two educators.",
       "fr": "La classe des Oursons est dirigee par deux educatrices et mise sur le developpement global de l'enfant grace a un programme bilingue, structure et riche en jeu."
     },
     "sections": {
       "en": [
         {
-          "title": "Welcome Notes for Families",
-          "bullets": [
-            "Encourage children to dress independently (indoor and outdoor clothing).",
-            "Use Velcro shoes when possible.",
-            "Bring a small pillow and blanket for rest time.",
-            "During circle time, please wait for an educator to assist transitions."
-          ]
+          "title": "Welcome!"
         },
         {
-          "title": "Goals and Objectives",
+          "title": "WELCOME TO THE TEDDY BEARS CLASS!",
+          "text": "We look forward to learning and growing with your child. The following information will give you a description of our program and our daily schedule."
+        },
+        {
+          "title": "Goals and Objectives"
+        },
+        {
+          "title": "Our Goals and Objectives for the Teddy Bear Class:",
           "bullets": [
-            "Make school experience positive and confidence-building.",
-            "Stimulate curiosity, understanding, and thought processes.",
-            "Encourage sharing, cooperation, and self-expression.",
-            "Support independence, safety, and creative development.",
-            "Maintain frequent communication with parents."
+            "Make your child's school experience a positive one.",
+            "Stimulate each child's thoughts processes to bring greater understanding, awareness and curiosity.",
+            "Encourage sharing and cooperation.",
+            "Provide opportunities for self-expression for each child through language, dramatics, art, music and play.",
+            "Help each child recognize the feelings and property of others.",
+            "Encourage the child to solve problems independently.",
+            "Encourage independence in tending to personal needs.",
+            "Encourage safety practices in daycare and outdoor",
+            "Promote the child's free creative and artistic development by providing many different media for creative expression.",
+            "Foster frequent communication between us and parents about your child's overall development."
           ]
         },
         {
           "title": "Our Program",
-          "text": "A bilingual structured program that nurtures cognitive, emotional, social, fine-motor, and gross-motor development, with meaningful free play and guided play.",
+          "text": "Our Bilingual program is a structured program based on teaching, nurturing the \"whole\" child. We value and foster cognitive, emotional, and social as well as fine and gross motor development. We believe that choice and free play is also very important. Children have a natural impulse to explore and create. We want to empower the children and offer positive learning development through a variety of different \"guided\" play opportunities. Our bilingual program will provide opportunities to the children where they can:",
           "bullets": [
-            "Intellectual development: problem solving, communication, concept discovery.",
-            "Social development: cooperation, negotiation, group participation.",
-            "Physical development: cutting, drawing, dressing, movement and dance.",
-            "Emotional and creative development: choice, risk-taking, expression, and creation."
+            "develop intellectually: with opportunities to think, to solve problems, to communicate, to discover concepts",
+            "develop socially: with opportunities to cooperate, to negotiate, to initiate interactions with peers, to participate in groups",
+            "develop physically: with opportunities to cut, draw, lace, dress-up, to pour, sift and shake, and to dance, move and stretch",
+            "develop emotionally: with opportunities for self-expression, to choose, to take risks and to be successful",
+            "develop creatively: with opportunities to try (take risks), to make choices, to resolve problems, to accomplish and create."
           ]
-        },
-        {
-          "title": "Guidelines",
-          "bullets": [
-            "French immersion through songs, instructions, and theme-based vocabulary.",
-            "Circle time introduces new vocabulary and collective learning.",
-            "Consistent routines support security and school readiness.",
-            "Free play supports functional, constructive, and dramatic play."
-          ]
-        },
-        {
-          "title": "Minipally / Brindami",
-          "text": "Starting in mid-September, workshops are offered every two weeks to support social-emotional growth, self-esteem, and self-control."
         }
       ],
       "fr": [
@@ -311,35 +353,86 @@
     },
     "image": "https://web.archive.org/web/20251116055832im_/https://cpeconcordia.ca/wp-content/uploads/2015/09/fff.png",
     "description": {
-      "en": "The Butterflies class is led by three educators and helps children prepare for kindergarten through bilingual learning, social-emotional growth, and structured thematic activities.",
+      "en": "The Butterflies provides services for children aged between three years and eleven months to four years and four months and it is led by two educators.",
       "fr": "La classe des Papillons est dirigee par trois educatrices et prepare les enfants a la maternelle grace a des apprentissages bilingues, socio-emotionnels et des activites thematiques structurees."
     },
     "sections": {
       "en": [
         {
-          "title": "Welcome",
-          "text": "September can be exciting and challenging. The team works with families to make each day positive and to support school readiness.",
+          "title": "WELCOME"
+        },
+        {
+          "title": "WELCOME TO THE BUTTERFLIES CLASS!"
+        },
+        {
+          "title": "GOALS AND OBJECTIVES"
+        },
+        {
+          "text": "The goals are to allow children to acquire primary knowledge and understanding of the French language in order to facilitate them in beginning to communicate with their teachers and peers."
+        },
+        {
+          "text": "The Butterfly French program will integrate the five areas of development of the child (cognitive, physical, creative, social and emotional). These five areas will be integrated into our daily French program and will complete the learning process of the whole child during circle time, learning centres, transition time, gym and outdoor play."
+        },
+        {
+          "text": "The objectives of the group are:"
+        },
+        {
+          "title": "Cognitive",
           "bullets": [
-            "Complete and return forms quickly.",
-            "Prioritize hearing and vision checkups.",
-            "Support fine motor skills at home (playdough, cutting, coloring).",
-            "Teach hygiene routines and keep communication open.",
-            "Stay involved in your child's learning and trust the teaching team."
+            "The use of simple French vocabulary.",
+            "Developing an understanding of the French language.",
+            "Recognizing colours and shapes",
+            "Recognizing letters.",
+            "Recognizing numbers 1-20.",
+            "Recognizing and beginning to write their names.",
+            "Beginning to think critically.",
+            "Accepting and following class rules."
           ]
         },
         {
-          "title": "Goals and Objectives",
-          "text": "The French program integrates cognitive, physical, creative, and social-emotional development areas.",
+          "title": "Physical",
           "bullets": [
-            "Cognitive: French vocabulary, letters, shapes, colors, numbers 1-20, critical thinking.",
-            "Physical: balance, hopping, skipping, climbing, throwing, and coordination.",
-            "Creative: art materials, 2D/3D creation, science and math exploration, dramatic play.",
-            "Social-emotional: empathy, conflict resolution, turn taking, self-esteem."
+            "Walks heel-to-toe and runs well.",
+            "Runs, starts, stops and move around obstacles with ease.",
+            "Hops on one foot skillfully.",
+            "Learn to skip using alternative feet.",
+            "Gallops with ease.",
+            "Jumps for distance (about 3 feet).",
+            "Catches and throws ball skillfully.",
+            "Begin to coordinate movements to climb on a jungle gym."
           ]
         },
         {
-          "title": "Minipally / Brindami",
-          "text": "Bi-weekly workshops begin in mid-September to strengthen social-emotional development, self-esteem, and self-control."
+          "title": "Creative",
+          "bullets": [
+            "Use various art materials creatively on their own or in a group.",
+            "Use art tools and materials to create two or three dimensional art.",
+            "Becoming creative through simple Math and Science experiments.",
+            "Becoming creative in environmental activities, including activities on outdoor playground or field trips.",
+            "Use imagination to express themselves during dramatic play."
+          ]
+        },
+        {
+          "title": "Social and Emotional",
+          "bullets": [
+            "Use their words when in conflict with their peers.",
+            "Learn to listen while others talk.",
+            "Show empathy and respect for others.",
+            "Learn to take turns during classroom activities.",
+            "Develop a position of self-esteem about themselves."
+          ]
+        },
+        {
+          "text": "Throughout the year we will incorporate different activities such as: Art, Music , Drama, Movement, Stories, Math, and Science in our themes."
+        },
+        {
+          "text": "Also we will be taking some trips by bus and metro. In order to make these trips a success we need parent volunteers. This is necessary so we could maintain our excellent ratios for the safety of our children."
+        },
+        {
+          "text": "This year there will be two evaluations of your child. One at the end of September, beginning October. This evaluation will be about how your child is adjusting and what we could do to make things better. The second evaluation at the end of May is a written one that could be used for school entrance purposes."
+        },
+        {
+          "text": "At the end of October we will begin the Alphabet introducing one letter a week. We will have a book that will be given back to your child in June when we finish the Alphabet."
         }
       ],
       "fr": [
@@ -378,33 +471,38 @@
     },
     "image": "https://web.archive.org/web/20251210185719im_/https://cpeconcordia.ca/wp-content/uploads/2015/06/DSC_5934.jpg",
     "description": {
-      "en": "The Penguins class is led by two educators and supports kindergarten readiness through play-oriented learning, bilingual exposure, and social-emotional development.",
+      "en": "The Penguins group provides services for children aged between four years and five months to four years and eleven months old and it is led by two educators.",
       "fr": "La classe des Pingouins est dirigee par deux educatrices et soutient la preparation a la maternelle par un apprentissage axe sur le jeu, une exposition bilingue et le developpement socio-emotionnel."
     },
     "sections": {
       "en": [
         {
-          "title": "Our Program",
-          "text": "Children learn concepts through circle time, songs, games, stories, and varied learning centers including art, books, science, math, writing, and drama.",
+          "title": "Our Program"
+        },
+        {
+          "title": "WELCOME TO THE PENGUINS CLASS!",
+          "text": "Our program provides your child with opportunities to learn concepts through a variety of play-oriented experiences. During our circle-times, we join together as a group to discuss the weekly theme. We sing songs, play games, and/or read theme-related books and poetry. The goal of the French portion of the program is to expand vocabulary of the French language as well as to enjoy learning a new language. After the circle-time, your child chooses from a variety of learning centers to play in (i.e. art, book, game, drama, science, math, writing...). In these centers, your child is able to explore, experiment and master the use of different materials through small-group play at his/her own level."
+        },
+        {
+          "title": "Goals and Objectives"
+        },
+        {
+          "title": "Our Goals and Objectives for the Penguin Class:",
           "bullets": [
-            "French sounds and vocabulary are introduced gradually.",
-            "Children explore and experiment in small groups at their own level.",
-            "Learning is play-oriented and theme-based."
+            "Promote small motor development (cutting, drawing, printing...).",
+            "Foster large motor development (running, jumping, climbing...).",
+            "Encourage self help skills (dressing self, eating habits, clean up...).",
+            "Promote prosocial skills: listening to others, sharing, turn taking, helping, respect for others, positive social interactions, caring attitudes.",
+            "Identify and understand own emotions and the emotions of others.",
+            "Develop self-esteem and confidence.",
+            "Take responsibility for own actions.",
+            "Achieve problem solving abilities.",
+            "Develop a positive attitude towards learning.",
+            "Support learning through small and large group activities."
           ]
         },
         {
-          "title": "Goals and Objectives",
-          "bullets": [
-            "Promote fine and gross motor development.",
-            "Encourage self-help skills and autonomy.",
-            "Support prosocial skills, empathy, and respectful interaction.",
-            "Develop confidence, self-esteem, and responsibility.",
-            "Build problem solving and positive attitudes toward learning."
-          ]
-        },
-        {
-          "title": "Second Step Program",
-          "text": "Second Step helps children prepare for kindergarten by developing learning skills, empathy, emotion management, and friendship/problem-solving skills. Home links are sent for family activities."
+          "text": "The goals of our program are to support your child in developing a sense of self, forming positive relationships with the teachers and peers and gaining a better understanding of his/her environment and community all in time before our Penguins start kindergarten."
         }
       ],
       "fr": [
