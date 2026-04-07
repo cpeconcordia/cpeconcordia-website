@@ -5,13 +5,13 @@
       "fr": "Admissions"
     },
     "intro": {
-      "en": "Our waiting list is managed by an external organization, La Place 0-5. Please contact them directly for more detailed information.",
+      "en": "Our waiting list is managed by an external organization, Registration Portal of the MFA. Please contact them directly for more detailed information.",
       "fr": "Notre liste d'attente est geree par un organisme externe, La Place 0-5. Veuillez communiquer directement avec eux pour plus de details."
     },
     "paragraphs": {
       "en": [
-        "La Place 0-5 centralizes registration for subsidized Quebec CPEs and many daycares, making it easier for families to find and compare options.",
-        "During transition periods, not all daycares may be listed on La Place 0-5. Families can still use the Quebec daycare map to find contact information for all facilities.",
+        "The Portal centralizes registration for subsidized Quebec CPEs and many daycares, making it easier for families to find and compare options.",
+        "During transition periods, not all daycares may be listed on the Portal. Families can still use the Quebec daycare map to find contact information for all facilities.",
         "By bringing daycare services together in one place, the platform helps families make informed decisions according to their needs and location."
       ],
       "fr": [
@@ -23,7 +23,7 @@
     "links": [
       {
         "label": {
-          "en": "Register on La Place 0-5",
+          "en": "Register on the Portal MFA",
           "fr": "S'inscrire sur La Place 0-5"
         },
         "url": "https://www.laplace0-5.com/"
