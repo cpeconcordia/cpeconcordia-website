@@ -43,7 +43,7 @@
       "fr": "Programme educatif"
     },
     "intro": {
-      "en": "CPE Concordia follows an educational program conform to Ministere de la Famille requirements.",
+      "en": "CPE Concordia follows an educational program in accordance with Ministère de la Famille requirements.",
       "fr": "Le CPE Concordia suit un programme educatif conforme aux exigences du Ministere de la Famille."
     },
     "paragraphs": {
@@ -74,7 +74,7 @@
       "fr": "FAQ des parents"
     },
     "intro": {
-      "en": "Please consult our list of most frequently asked questions to help parents get answers and more information regarding our CPE.",
+      "en": "Please consult our list of most frequently asked questions to help you get answers and more information regarding our CPE.",
       "fr": "Consultez notre foire aux questions pour aider les parents a obtenir des reponses et plus d'information sur notre CPE."
     },
     "faq": {
@@ -89,14 +89,14 @@
         },
         {
           "q": "How can I register my child at CPE Concordia?",
-          "a": "Please consult our Admissions page and register through La Place 0-5."
+          "a": "Please consult our Admissions page and register through the Registration Portal."
         },
         {
           "q": "Does CPE Concordia provide meals?",
-          "a": "Yes. Meals are catered and delivered daily. Detailed nutrition information is provided after registration."
+          "a": "Yes. Meals are catered and delivered daily. Detailed nutrition information is provided after registration. Menus are provided to parents on a monthly basis."
         },
         {
-          "q": "Are staff trained in first aid?",
+          "q": "Are staff trained in first aid and CPR?",
           "a": "Yes. Educators are regularly trained according to provincial requirements."
         },
         {
