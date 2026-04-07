@@ -744,6 +744,18 @@ body.lightbox-open {
   cursor: pointer;
 }
 
+.donate-wrap {
+  max-width: 860px;
+}
+
+.section-donate .contact-card {
+  padding: 1.5rem;
+}
+
+.section-donate .btn {
+  margin-top: 0.25rem;
+}
+
 .contact-grid {
   display: grid;
   grid-template-columns: 1.1fr 1fr;
