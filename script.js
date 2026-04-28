@@ -164,12 +164,6 @@ function applyLanguage(lang) {
     button.setAttribute("aria-pressed", String(isActive));
   });
 
-  const submitButton = document.querySelector(".contact-form button[type='submit']");
-  if (submitButton) {
-    const isSent = submitButton.dataset.sent === "true";
-    submitButton.textContent = isSent ? dictionary.sentButton : dictionary.sendButton;
-  }
-
   renderGallery();
 }
 
@@ -270,18 +264,6 @@ if ("IntersectionObserver" in window) {
 } else {
   revealElements.forEach((el) => el.classList.add("visible"));
 }
-
-document.querySelector(".contact-form")?.addEventListener("submit", (event) => {
-  // Demo-only behavior for a static site contact form.
-  event.preventDefault();
-  const submitButton = event.currentTarget.querySelector("button[type='submit']");
-  if (submitButton) {
-    const dictionary = dictionaryForLanguage(contentState.currentLanguage);
-    submitButton.textContent = dictionary.sentButton;
-    submitButton.dataset.sent = "true";
-    submitButton.disabled = true;
-  }
-});
 
 async function initializeSite() {
   try {
