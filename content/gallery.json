@@ -1,20 +1,8 @@
 {
   "items": [
     {
-      "category": "facilities",
+      "category": "fun-times",
       "src": "images/gallery/web/DSC_6248.jpg",
-      "alt": {
-        "en": "Our amazing facilities",
-        "fr": "Nos installations"
-      },
-      "caption": {
-        "en": "Our Amazing Facilities",
-        "fr": "Nos installations"
-      }
-    },
-    {
-      "category": "facilities",
-      "src": "images/gallery/web/DSC_6245.jpg",
       "alt": {
         "en": "Our educators",
         "fr": "Nos educatrices et educateurs"
@@ -26,7 +14,7 @@
     },
     {
       "category": "fun-times",
-      "src": "images/gallery/web/DSC_6051.jpg",
+      "src": "images/gallery/web/DSC_6245.jpg",
       "alt": {
         "en": "Play time",
         "fr": "Moment de jeu"
@@ -38,19 +26,7 @@
     },
     {
       "category": "fun-times",
-      "src": "images/gallery/web/DSC_5976.jpg",
-      "alt": {
-        "en": "Stimulating activities",
-        "fr": "Activites stimulantes"
-      },
-      "caption": {
-        "en": "Stimulating Activities",
-        "fr": "Activites stimulantes"
-      }
-    },
-    {
-      "category": "fun-times",
-      "src": "images/gallery/web/DSC_5999.jpg",
+      "src": "images/gallery/web/DSC_6051.jpg",
       "alt": {
         "en": "Outdoor activities",
         "fr": "Activites exterieures"
@@ -62,31 +38,7 @@
     },
     {
       "category": "fun-times",
-      "src": "images/gallery/web/DSC_6161.jpg",
-      "alt": {
-        "en": "Having fun",
-        "fr": "Moment de plaisir"
-      },
-      "caption": {
-        "en": "Having Fun",
-        "fr": "Moment de plaisir"
-      }
-    },
-    {
-      "category": "fun-times",
-      "src": "images/gallery/web/DSC_6077.jpg",
-      "alt": {
-        "en": "Indoor hockey",
-        "fr": "Hockey interieur"
-      },
-      "caption": {
-        "en": "Indoor Hockey",
-        "fr": "Hockey interieur"
-      }
-    },
-    {
-      "category": "fun-times",
-      "src": "images/gallery/web/DSC_5918.jpg",
+      "src": "images/gallery/web/DSC_5976.jpg",
       "alt": {
         "en": "Building and creating",
         "fr": "Construire et creer"
@@ -98,7 +50,43 @@
     },
     {
       "category": "fun-times",
-      "src": "images/gallery/web/DSC_6129.jpg",
+      "src": "images/gallery/web/DSC_5999.jpg",
+      "alt": {
+        "en": "Activities for every style",
+        "fr": "Activites pour tous les styles"
+      },
+      "caption": {
+        "en": "Activities for Every Style",
+        "fr": "Activites pour tous les styles"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/web/DSC_6161.jpg",
+      "alt": {
+        "en": "Indoor hockey",
+        "fr": "Hockey interieur"
+      },
+      "caption": {
+        "en": "Indoor Hockey",
+        "fr": "Hockey interieur"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/web/DSC_6077.jpg",
+      "alt": {
+        "en": "Having fun",
+        "fr": "Moment de plaisir"
+      },
+      "caption": {
+        "en": "Having Fun",
+        "fr": "Moment de plaisir"
+      }
+    },
+    {
+      "category": "fun-times",
+      "src": "images/gallery/web/DSC_5918.jpg",
       "alt": {
         "en": "Learning numbers",
         "fr": "Apprendre les nombres"
@@ -109,20 +97,20 @@
       }
     },
     {
-      "category": "facilities",
-      "src": "images/gallery/web/DSC_5975.jpg",
+      "category": "fun-times",
+      "src": "images/gallery/web/DSC_6129.jpg",
       "alt": {
-        "en": "Gym and fitness",
-        "fr": "Gym et activites physiques"
+        "en": "Stimulating activities",
+        "fr": "Activites stimulantes"
       },
       "caption": {
-        "en": "Gym and Fitness",
-        "fr": "Gym et activites physiques"
+        "en": "Stimulating Activities",
+        "fr": "Activites stimulantes"
       }
     },
     {
       "category": "facilities",
-      "src": "images/gallery/web/DSC_6223.jpg",
+      "src": "images/gallery/web/DSC_5975.jpg",
       "alt": {
         "en": "Our playground",
         "fr": "Notre aire de jeu"
@@ -134,31 +122,7 @@
     },
     {
       "category": "facilities",
-      "src": "images/gallery/web/DSC_6227.jpg",
-      "alt": {
-        "en": "Classrooms",
-        "fr": "Salles de classe"
-      },
-      "caption": {
-        "en": "Classrooms",
-        "fr": "Salles de classe"
-      }
-    },
-    {
-      "category": "facilities",
-      "src": "images/gallery/web/DSC_6208.jpg",
-      "alt": {
-        "en": "Playground",
-        "fr": "Aire de jeu"
-      },
-      "caption": {
-        "en": "Playground",
-        "fr": "Aire de jeu"
-      }
-    },
-    {
-      "category": "facilities",
-      "src": "images/gallery/web/DSC_6201.jpg",
+      "src": "images/gallery/web/DSC_6223.jpg",
       "alt": {
         "en": "Class activities",
         "fr": "Activites en classe"
@@ -170,7 +134,31 @@
     },
     {
       "category": "facilities",
-      "src": "images/gallery/web/DSC_6196.jpg",
+      "src": "images/gallery/web/DSC_6227.jpg",
+      "alt": {
+        "en": "Playground",
+        "fr": "Aire de jeu"
+      },
+      "caption": {
+        "en": "Playground",
+        "fr": "Aire de jeu"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/web/DSC_6208.jpg",
+      "alt": {
+        "en": "Classrooms",
+        "fr": "Salles de classe"
+      },
+      "caption": {
+        "en": "Classrooms",
+        "fr": "Salles de classe"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/web/DSC_6201.jpg",
       "alt": {
         "en": "Toys and gadgets",
         "fr": "Jouets et materiel"
@@ -181,8 +169,8 @@
       }
     },
     {
-      "category": "fun-times",
-      "src": "images/gallery/web/DSC_6137.jpg",
+      "category": "facilities",
+      "src": "images/gallery/web/DSC_6196.jpg",
       "alt": {
         "en": "Get organized",
         "fr": "Devenir autonome"
@@ -194,14 +182,26 @@
     },
     {
       "category": "fun-times",
-      "src": "images/gallery/web/DSC_5902.jpg",
+      "src": "images/gallery/web/DSC_6137.jpg",
       "alt": {
-        "en": "Activities for every style",
-        "fr": "Activites pour tous les styles"
+        "en": "Gym and fitness",
+        "fr": "Gym et activites physiques"
       },
       "caption": {
-        "en": "Activities for Every Style",
-        "fr": "Activites pour tous les styles"
+        "en": "Gym and Fitness",
+        "fr": "Gym et activites physiques"
+      }
+    },
+    {
+      "category": "facilities",
+      "src": "images/gallery/web/DSC_5902.jpg",
+      "alt": {
+        "en": "Our amazing facilities",
+        "fr": "Nos installations"
+      },
+      "caption": {
+        "en": "Our Amazing Facilities",
+        "fr": "Nos installations"
       }
     }
   ]
