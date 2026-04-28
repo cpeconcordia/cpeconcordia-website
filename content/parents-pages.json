@@ -81,11 +81,13 @@
       "en": [
         {
           "q": "Where can I get information about the CPE's program before deciding?",
-          "a": "You may download our Educational Program for details about curriculum and pedagogy."
+          "a": "You may download our Educational Program for details about curriculum and pedagogy.",
+          "aHtml": "You may download our <a href=\"../documents/educational-program.pdf\" target=\"_blank\" rel=\"noreferrer\">Educational Program</a> for details about curriculum and pedagogy."
         },
         {
           "q": "Where can I get information about CPE policies?",
-          "a": "You may download our Policy Manual for detailed policies and procedures."
+          "a": "You may download our Policy Manual for detailed policies and procedures.",
+          "aHtml": "You may download our <a href=\"../documents/policy-manual.pdf\" target=\"_blank\" rel=\"noreferrer\">Policy Manual</a> for detailed policies and procedures."
         },
         {
           "q": "How can I register my child at CPE Concordia?",
@@ -111,11 +113,13 @@
       "fr": [
         {
           "q": "Ou puis-je obtenir de l'information sur le programme avant de faire un choix?",
-          "a": "Vous pouvez telecharger notre programme educatif pour en savoir plus sur notre approche pedagogique."
+          "a": "Vous pouvez telecharger notre programme educatif pour en savoir plus sur notre approche pedagogique.",
+          "aHtml": "Vous pouvez telecharger notre <a href=\"../documents/educational-program.pdf\" target=\"_blank\" rel=\"noreferrer\">programme educatif</a> pour en savoir plus sur notre approche pedagogique."
         },
         {
           "q": "Ou puis-je consulter les politiques du CPE?",
-          "a": "Vous pouvez telecharger notre manuel des politiques pour les details complets."
+          "a": "Vous pouvez telecharger notre manuel des politiques pour les details complets.",
+          "aHtml": "Vous pouvez telecharger notre <a href=\"../documents/policy-manual.pdf\" target=\"_blank\" rel=\"noreferrer\">manuel des politiques</a> pour les details complets."
         },
         {
           "q": "Comment inscrire mon enfant au CPE Concordia?",

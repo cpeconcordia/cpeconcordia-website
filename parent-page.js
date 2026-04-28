@@ -73,7 +73,11 @@ function renderFaq(items, container) {
     question.textContent = item.q;
 
     const answer = document.createElement("p");
-    answer.textContent = item.a;
+    if (item.aHtml) {
+      answer.innerHTML = item.aHtml;
+    } else {
+      answer.textContent = item.a;
+    }
 
     block.appendChild(question);
     block.appendChild(answer);
