@@ -91,7 +91,8 @@
         },
         {
           "q": "How can I register my child at CPE Concordia?",
-          "a": "Please consult our Admissions page and register through the Registration Portal."
+          "a": "Please consult our Admissions page and register through the Registration Portal.",
+          "aHtml": "Please consult our <a href=\"admissions.html\">Admissions page</a> and register through the Registration Portal."
         },
         {
           "q": "Does CPE Concordia provide meals?",
@@ -123,7 +124,8 @@
         },
         {
           "q": "Comment inscrire mon enfant au CPE Concordia?",
-          "a": "Consultez la page Admissions et inscrivez-vous via La Place 0-5."
+          "a": "Consultez la page Admissions et inscrivez-vous via La Place 0-5.",
+          "aHtml": "Consultez la <a href=\"admissions.html\">page Admissions</a> et inscrivez-vous via La Place 0-5."
         },
         {
           "q": "Le CPE fournit-il les repas?",
