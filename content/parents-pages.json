@@ -6,7 +6,7 @@
     },
     "intro": {
       "en": "Our waiting list is managed by an external organization, Registration Portal of the MFA. Please contact them directly for more detailed information.",
-      "fr": "Notre liste d'attente est geree par un organisme externe, La Place 0-5. Veuillez communiquer directement avec eux pour plus de details."
+      "fr": "Notre liste d'attente est gérée par un organisme externe, La Place 0-5. Veuillez communiquer directement avec eux pour plus de détails."
     },
     "paragraphs": {
       "en": [
@@ -15,9 +15,9 @@
         "By bringing daycare services together in one place, the platform helps families make informed decisions according to their needs and location."
       ],
       "fr": [
-        "La Place 0-5 centralise l'inscription pour les CPE subventionnes du Quebec et plusieurs garderies, ce qui facilite la comparaison pour les familles.",
-        "Pendant les periodes de transition, certaines garderies peuvent ne pas encore y figurer. Les familles peuvent aussi consulter la carte des services de garde du Quebec.",
-        "En regroupant les services de garde, la plateforme aide les familles a prendre une decision selon leurs besoins et leur secteur."
+        "La Place 0-5 centralise l'inscription pour les CPE subventionnés du Québec et plusieurs garderies, ce qui facilite la comparaison pour les familles.",
+        "Pendant les périodes de transition, certaines garderies peuvent ne pas encore y figurer. Les familles peuvent aussi consulter la carte des services de garde du Québec.",
+        "En regroupant les services de garde, la plateforme aide les familles à prendre une décision selon leurs besoins et leur secteur."
       ]
     },
     "links": [
@@ -31,7 +31,7 @@
       {
         "label": {
           "en": "Download Policy Manual",
-          "fr": "Telecharger le manuel des politiques"
+          "fr": "Télécharger le manuel des politiques"
         },
         "url": "../documents/policy-manual.pdf"
       }
@@ -40,11 +40,11 @@
   "educational-curriculum": {
     "title": {
       "en": "Educational Curriculum",
-      "fr": "Programme educatif"
+      "fr": "Programme éducatif"
     },
     "intro": {
       "en": "CPE Concordia follows an educational program in accordance with Ministère de la Famille requirements.",
-      "fr": "Le CPE Concordia suit un programme educatif conforme aux exigences du Ministere de la Famille."
+      "fr": "Le CPE Concordia suit un programme éducatif conforme aux exigences du Ministère de la Famille."
     },
     "paragraphs": {
       "en": [
@@ -53,16 +53,16 @@
         "Children benefit from a balanced daily schedule including quiet and active periods, indoor and outdoor play, whole-group and small-group experiences, and occasional mixed-age activities."
       ],
       "fr": [
-        "Notre programme repose sur la conviction que les enfants apprennent par le jeu. Ces experiences de jeu favorisent le developpement physique, emotionnel, social, cognitif et creatif.",
-        "Cette philosophie est centree sur l'enfant plutot que dirigee par l'adulte, avec de longues periodes de jeu libre concretes et des moments guides comme le cercle.",
-        "Les enfants profitent d'un horaire equilibre entre activites calmes et dynamiques, jeux interieurs et exterieurs, activites de groupe et en petits groupes, ainsi que certaines activites d'ages mixtes."
+        "Notre programme repose sur la conviction que les enfants apprennent par le jeu. Ces expériences de jeu favorisent le développement physique, émotionnel, social, cognitif et créatif.",
+        "Cette philosophie est centrée sur l'enfant plutôt que dirigée par l'adulte, avec de longues périodes de jeu libre concret et des moments guidés comme le cercle.",
+        "Les enfants profitent d'un horaire équilibré entre activités calmes et dynamiques, jeux intérieurs et extérieurs, activités de groupe et en petits groupes, ainsi que certaines activités d'âges mixtes."
       ]
     },
     "links": [
       {
         "label": {
           "en": "Download Educational Program",
-          "fr": "Telecharger le programme educatif"
+          "fr": "Télécharger le programme éducatif"
         },
         "url": "../documents/educational-program.pdf"
       }
@@ -75,7 +75,7 @@
     },
     "intro": {
       "en": "Please consult our list of most frequently asked questions to help you get answers and more information regarding our CPE.",
-      "fr": "Consultez notre foire aux questions pour aider les parents a obtenir des reponses et plus d'information sur notre CPE."
+      "fr": "Consultez notre foire aux questions pour obtenir des réponses et plus d'information sur notre CPE."
     },
     "faq": {
       "en": [
@@ -113,35 +113,35 @@
       ],
       "fr": [
         {
-          "q": "Ou puis-je obtenir de l'information sur le programme avant de faire un choix?",
-          "a": "Vous pouvez telecharger notre programme educatif pour en savoir plus sur notre approche pedagogique.",
-          "aHtml": "Vous pouvez telecharger notre <a href=\"../documents/educational-program.pdf\" target=\"_blank\" rel=\"noreferrer\">programme educatif</a> pour en savoir plus sur notre approche pedagogique."
+          "q": "Où puis-je obtenir de l'information sur le programme avant de faire un choix ?",
+          "a": "Vous pouvez télécharger notre programme éducatif pour en savoir plus sur notre approche pédagogique.",
+          "aHtml": "Vous pouvez télécharger notre <a href=\"../documents/educational-program.pdf\" target=\"_blank\" rel=\"noreferrer\">programme éducatif</a> pour en savoir plus sur notre approche pédagogique."
         },
         {
-          "q": "Ou puis-je consulter les politiques du CPE?",
-          "a": "Vous pouvez telecharger notre manuel des politiques pour les details complets.",
-          "aHtml": "Vous pouvez telecharger notre <a href=\"../documents/policy-manual.pdf\" target=\"_blank\" rel=\"noreferrer\">manuel des politiques</a> pour les details complets."
+          "q": "Où puis-je consulter les politiques du CPE ?",
+          "a": "Vous pouvez télécharger notre manuel des politiques pour les détails complets.",
+          "aHtml": "Vous pouvez télécharger notre <a href=\"../documents/policy-manual.pdf\" target=\"_blank\" rel=\"noreferrer\">manuel des politiques</a> pour les détails complets."
         },
         {
-          "q": "Comment inscrire mon enfant au CPE Concordia?",
+          "q": "Comment inscrire mon enfant au CPE Concordia ?",
           "a": "Consultez la page Admissions et inscrivez-vous via La Place 0-5.",
           "aHtml": "Consultez la <a href=\"admissions.html\">page Admissions</a> et inscrivez-vous via La Place 0-5."
         },
         {
-          "q": "Le CPE fournit-il les repas?",
-          "a": "Oui. Les repas sont prepares et livres quotidiennement. Les details nutritionnels sont remis apres l'inscription."
+          "q": "Le CPE fournit-il les repas ?",
+          "a": "Oui. Les repas sont préparés et livrés quotidiennement. Les détails nutritionnels sont remis après l'inscription. Les menus sont transmis aux parents chaque mois."
         },
         {
-          "q": "Le personnel est-il forme en premiers soins?",
-          "a": "Oui. Les educatrices et educateurs sont regulierement formes selon les exigences provinciales."
+          "q": "Le personnel est-il formé en premiers soins ?",
+          "a": "Oui. Les éducatrices et éducateurs sont régulièrement formés selon les exigences provinciales."
         },
         {
-          "q": "Offrez-vous un service a temps partiel?",
-          "a": "Non. Le service de garde a temps partiel n'est pas offert actuellement."
+          "q": "Offrez-vous un service à temps partiel ?",
+          "a": "Non. Le service de garde à temps partiel n'est pas offert actuellement."
         },
         {
-          "q": "Le CPE dispose-t-il d'une aire de jeu?",
-          "a": "Oui. Le centre comprend un gymnase interieur et une cour de jeu exterieure."
+          "q": "Le CPE dispose-t-il d'une aire de jeu ?",
+          "a": "Oui. Le centre comprend un gymnase intérieur et une cour de jeu extérieure."
         }
       ]
     },
@@ -149,7 +149,7 @@
       {
         "label": {
           "en": "Educational Program",
-          "fr": "Programme educatif"
+          "fr": "Programme éducatif"
         },
         "url": "../documents/educational-program.pdf"
       },

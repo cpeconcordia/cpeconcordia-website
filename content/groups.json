@@ -6,12 +6,12 @@
     },
     "age": {
       "en": "18 months to 2 years 1 month",
-      "fr": "18 mois a 2 ans et 1 mois"
+      "fr": "18 mois à 2 ans et 1 mois"
     },
     "image": "../images/groups/duckling.jpeg",
     "description": {
       "en": "",
-      "fr": "La classe des Canetons est dirigee par deux educatrices et offre un environnement positif, securitaire et stimulant ou les tout-petits apprennent par les histoires, les chansons, les jeux de doigts et l'exploration par le jeu."
+      "fr": "La classe des Canetons est dirigée par deux éducatrices et offre un environnement positif, sécuritaire et stimulant où les tout-petits apprennent par les histoires, les chansons, les jeux de doigts et l'exploration par le jeu."
     },
     "sections": {
       "en": [
@@ -44,23 +44,23 @@
         {
           "title": "Objectifs",
           "bullets": [
-            "Offrir un environnement securitaire et bienveillant.",
-            "Soutenir l'expression des besoins et des emotions.",
-            "Favoriser le developpement social par le jeu.",
-            "Introduire le vocabulaire francais et anglais chaque jour.",
+            "Offrir un environnement sécuritaire et bienveillant.",
+            "Soutenir l'expression des besoins et des émotions.",
+            "Favoriser le développement social par le jeu.",
+            "Introduire le vocabulaire français et anglais chaque jour.",
             "Rester disponibles pour les questions des parents."
           ]
         },
         {
           "title": "Programme",
-          "text": "Le programme offre des occasions d'apprentissage dans tous les domaines du developpement.",
+          "text": "Le programme offre des occasions d'apprentissage dans tous les domaines du développement.",
           "bullets": [
-            "Socio-emotionnel: jouer avec les autres et developper l'empathie.",
-            "Autonomie: s'habiller, manger et aller aux toilettes.",
-            "Motricite fine: casse-tetes, lacage, pate a modeler.",
-            "Motricite globale: grimper, courir, sauter, monter les escaliers.",
-            "Cognitif: suivre des consignes et resoudre de petits problemes.",
-            "Langage: vocabulaire de base en anglais et en francais."
+            "Socio-émotionnel : jouer avec les autres et développer l'empathie.",
+            "Autonomie : s'habiller, manger et aller aux toilettes.",
+            "Motricité fine : casse-têtes, laçage, pâte à modeler.",
+            "Motricité globale : grimper, courir, sauter, monter les escaliers.",
+            "Cognitif : suivre des consignes et résoudre de petits problèmes.",
+            "Langage : vocabulaire de base en anglais et en français."
           ]
         }
       ]
@@ -73,12 +73,12 @@
     },
     "age": {
       "en": "2 years 2 months to 2 years 8 months",
-      "fr": "2 ans et 2 mois a 2 ans et 8 mois"
+      "fr": "2 ans et 2 mois à 2 ans et 8 mois"
     },
     "image": "../images/groups/bee.jpeg",
     "description": {
       "en": "The Busy Bees provides services for children aged between two years and two months to two years and eight months and it is led by two educators.",
-      "fr": "La classe des Abeilles accueille les enfants de deux ans avec deux educatrices qualifiees dans un milieu chaleureux, securitaire et stimulant axe sur l'exploration, les interactions sociales et l'autonomie."
+      "fr": "La classe des Abeilles accueille les enfants de deux ans avec deux éducatrices qualifiées dans un milieu chaleureux, sécuritaire et stimulant axé sur l'exploration, les interactions sociales et l'autonomie."
     },
     "sections": {
       "en": [
@@ -148,25 +148,25 @@
         {
           "title": "Horaire du groupe des deux ans",
           "bullets": [
-            "Cercle du matin et de l'apres-midi avec chansons, histoires, jeux et themes.",
-            "Jeu libre dans des centres d'apprentissage thematiques.",
-            "Routines quotidiennes: toilette, collation, transitions.",
-            "Diner et sieste pour nourrir et reposer l'enfant.",
-            "Jeu exterieur deux fois par jour pour la motricite globale."
+            "Cercle du matin et de l'après-midi avec chansons, histoires, jeux et thèmes.",
+            "Jeu libre dans des centres d'apprentissage thématiques.",
+            "Routines quotidiennes : toilette, collation, transitions.",
+            "Dîner et sieste pour nourrir et reposer l'enfant.",
+            "Jeu extérieur deux fois par jour pour la motricité globale."
           ]
         },
         {
           "title": "Objectif principal",
-          "text": "Offrir un milieu chaleureux et stimulant et soutenir le developpement du langage, de l'ecoute, du partage et de la cooperation par le jeu."
+          "text": "Offrir un milieu chaleureux et stimulant et soutenir le développement du langage, de l'écoute, du partage et de la coopération par le jeu."
         },
         {
-          "title": "Objectifs de developpement",
+          "title": "Objectifs de développement",
           "bullets": [
-            "Physique: motricite globale et fine, coordination oeil-main.",
-            "Social: autonomie, estime de soi, interactions positives.",
-            "Emotionnel: identifier et exprimer les emotions, se sentir en securite.",
-            "Autonomie: routines, habillement, toilette, repas.",
-            "Cognitif et langage: formes, couleurs, livres, expression, creativite."
+            "Physique : motricité globale et fine, coordination œil-main.",
+            "Social : autonomie, estime de soi, interactions positives.",
+            "Émotionnel : identifier et exprimer les émotions, se sentir en sécurité.",
+            "Autonomie : routines, habillement, toilette, repas.",
+            "Cognitif et langage : formes, couleurs, livres, expression, créativité."
           ]
         }
       ]
@@ -179,12 +179,12 @@
     },
     "age": {
       "en": "2 years 9 months to 3 years 3 months",
-      "fr": "2 ans et 9 mois a 3 ans et 3 mois"
+      "fr": "2 ans et 9 mois à 3 ans et 3 mois"
     },
     "image": "../images/groups/ladybug.jpeg",
     "description": {
       "en": "The Ladybugs provides services for children aged between two years and nine months to three years and three months and it is led by two educators.",
-      "fr": "La classe des Coccinelles offre un environnement securitaire, accueillant, stimulant et amusant ou les enfants developpent leur autonomie et leur estime de soi a leur rythme."
+      "fr": "La classe des Coccinelles offre un environnement sécuritaire, accueillant, stimulant et amusant où les enfants développent leur autonomie et leur estime de soi à leur rythme."
     },
     "sections": {
       "en": [
@@ -223,20 +223,20 @@
         {
           "title": "Objectifs",
           "bullets": [
-            "Developper l'autonomie: toilette, habillement, repas, sommeil.",
-            "Favoriser les habiletes sociales: partage, tour de role, ecoute, respect.",
-            "Enrichir le langage: vocabulaire, articulation, expression.",
-            "Developper la motricite fine et globale."
+            "Développer l'autonomie : toilette, habillement, repas, sommeil.",
+            "Favoriser les habiletés sociales : partage, tour de rôle, écoute, respect.",
+            "Enrichir le langage : vocabulaire, articulation, expression.",
+            "Développer la motricité fine et globale."
           ]
         },
         {
           "title": "Programme",
-          "text": "Les enfants participent a des activites variees en jeu libre, cercle du matin en anglais et cercle de l'apres-midi en francais.",
+          "text": "Les enfants participent à des activités variées en jeu libre, cercle du matin en anglais et cercle de l'après-midi en français.",
           "bullets": [
-            "Le francais est introduit par les chansons, histoires, routines et activites quotidiennes.",
-            "Vocabulaire travaille: nombres, alphabet, jours, parties du corps, couleurs.",
-            "Centres d'apprentissage: dramatique, science, langage, ecriture, motricite fine.",
-            "Les activites stimulent curiosite, imagination, creativite, langage et resolution de problemes."
+            "Le français est introduit par les chansons, histoires, routines et activités quotidiennes.",
+            "Vocabulaire travaillé : nombres, alphabet, jours, parties du corps, couleurs.",
+            "Centres d'apprentissage : dramatique, science, langage, écriture, motricité fine.",
+            "Les activités stimulent curiosité, imagination, créativité, langage et résolution de problèmes."
           ]
         }
       ]
@@ -249,12 +249,12 @@
     },
     "age": {
       "en": "3 years 4 months to 3 years 10 months",
-      "fr": "3 ans et 4 mois a 3 ans et 10 mois"
+      "fr": "3 ans et 4 mois à 3 ans et 10 mois"
     },
     "image": "../images/groups/teddybear.jpeg",
     "description": {
       "en": "The Teddy Bears provides services for children aged between three years and four months to three years and ten months and it is led by two educators.",
-      "fr": "La classe des Oursons est dirigee par deux educatrices et mise sur le developpement global de l'enfant grace a un programme bilingue, structure et riche en jeu."
+      "fr": "La classe des Oursons est dirigée par deux éducatrices et mise sur le développement global de l'enfant grâce à un programme bilingue, structuré et riche en jeu."
     },
     "sections": {
       "en": [
@@ -296,30 +296,30 @@
         {
           "title": "Accueil et informations aux familles",
           "bullets": [
-            "Encourager l'enfant a s'habiller seul a l'interieur et a l'exterieur.",
-            "Privilegier des chaussures a velcro.",
+            "Encourager l'enfant à s'habiller seul à l'intérieur et à l'extérieur.",
+            "Privilégier des chaussures à velcro.",
             "Apporter une petite couverture et un petit oreiller pour le repos.",
-            "Pendant le cercle, attendre l'aide d'une educatrice pour les transitions."
+            "Pendant le cercle, attendre l'aide d'une éducatrice pour les transitions."
           ]
         },
         {
           "title": "Objectifs",
           "bullets": [
-            "Rendre l'experience prescolaire positive et valorisante.",
-            "Stimuler curiosite, comprehension et reflexion.",
-            "Encourager partage, cooperation et expression de soi.",
-            "Soutenir autonomie, securite et creativite.",
-            "Maintenir une communication frequente avec les parents."
+            "Rendre l'expérience préscolaire positive et valorisante.",
+            "Stimuler curiosité, compréhension et réflexion.",
+            "Encourager partage, coopération et expression de soi.",
+            "Soutenir autonomie, sécurité et créativité.",
+            "Maintenir une communication fréquente avec les parents."
           ]
         },
         {
           "title": "Programme",
-          "text": "Programme bilingue structure qui favorise le developpement cognitif, emotionnel, social, moteur fin et global, avec jeu libre et jeu guide.",
+          "text": "Programme bilingue structuré qui favorise le développement cognitif, émotionnel, social, moteur fin et global, avec jeu libre et jeu guidé.",
           "bullets": [
-            "Intellectuel: resoudre des problemes et communiquer.",
-            "Social: cooperer, negocier, participer en groupe.",
-            "Physique: dessiner, decouper, s'habiller, bouger.",
-            "Emotionnel et creatif: faire des choix, s'exprimer, creer."
+            "Intellectuel : résoudre des problèmes et communiquer.",
+            "Social : coopérer, négocier, participer en groupe.",
+            "Physique : dessiner, découper, s'habiller, bouger.",
+            "Émotionnel et créatif : faire des choix, s'exprimer, créer."
           ]
         }
       ]
@@ -332,12 +332,12 @@
     },
     "age": {
       "en": "3 years 11 months to 4 years 4 months",
-      "fr": "3 ans et 11 mois a 4 ans et 4 mois"
+      "fr": "3 ans et 11 mois à 4 ans et 4 mois"
     },
     "image": "../images/groups/butterfly.jpeg",
     "description": {
       "en": "The Butterflies provides services for children aged between three years and eleven months to four years and four months and it is led by two educators.",
-      "fr": "La classe des Papillons est dirigee par trois educatrices et prepare les enfants a la maternelle grace a des apprentissages bilingues, socio-emotionnels et des activites thematiques structurees."
+      "fr": "La classe des Papillons est dirigée par trois éducatrices et prépare les enfants à la maternelle grâce à des apprentissages bilingues, socio-émotionnels et des activités thématiques structurées."
     },
     "sections": {
       "en": [
@@ -418,23 +418,23 @@
       "fr": [
         {
           "title": "Accueil",
-          "text": "Le mois de septembre peut etre excitant et parfois exigeant. L'equipe collabore avec les familles pour une adaptation positive et une bonne preparation scolaire.",
+          "text": "Le mois de septembre peut être excitant et parfois exigeant. L'équipe collabore avec les familles pour une adaptation positive et une bonne préparation scolaire.",
           "bullets": [
-            "Completer et remettre les formulaires rapidement.",
-            "Favoriser les verifications de la vue et de l'audition.",
-            "Travailler la motricite fine a la maison.",
-            "Renforcer l'hygiene et maintenir une bonne communication.",
+            "Compléter et remettre les formulaires rapidement.",
+            "Favoriser les vérifications de la vue et de l'audition.",
+            "Travailler la motricité fine à la maison.",
+            "Renforcer l'hygiène et maintenir une bonne communication.",
             "S'impliquer activement dans les apprentissages de l'enfant."
           ]
         },
         {
           "title": "Objectifs",
-          "text": "Le programme de francais integre les volets cognitif, physique, creatif et socio-emotionnel.",
+          "text": "Le programme de français intègre les volets cognitif, physique, créatif et socio-émotionnel.",
           "bullets": [
-            "Cognitif: vocabulaire francais, lettres, formes, couleurs, nombres, reflexion.",
-            "Physique: equilibre, saut, coordination, grimper, lancer.",
-            "Creatif: arts, creations 2D/3D, exploration scientifique et mathematique.",
-            "Socio-emotionnel: empathie, gestion des conflits, tour de role, estime de soi."
+            "Cognitif : vocabulaire français, lettres, formes, couleurs, nombres, réflexion.",
+            "Physique : équilibre, saut, coordination, grimper, lancer.",
+            "Créatif : arts, créations 2D/3D, exploration scientifique et mathématique.",
+            "Socio-émotionnel : empathie, gestion des conflits, tour de rôle, estime de soi."
           ]
         }
       ]
@@ -447,12 +447,12 @@
     },
     "age": {
       "en": "4 years 5 months to 4 years 11 months",
-      "fr": "4 ans et 5 mois a 4 ans et 11 mois"
+      "fr": "4 ans et 5 mois à 4 ans et 11 mois"
     },
     "image": "../images/groups/penguin.jpeg",
     "description": {
       "en": "The Penguins group provides services for children aged between four years and five months to four years and eleven months old and it is led by two educators.",
-      "fr": "La classe des Pingouins est dirigee par deux educatrices et soutient la preparation a la maternelle par un apprentissage axe sur le jeu, une exposition bilingue et le developpement socio-emotionnel."
+      "fr": "La classe des Pingouins est dirigée par deux éducatrices et soutient la préparation à la maternelle par un apprentissage axé sur le jeu, une exposition bilingue et le développement socio-émotionnel."
     },
     "sections": {
       "en": [
@@ -485,21 +485,21 @@
       "fr": [
         {
           "title": "Programme",
-          "text": "Les enfants apprennent par le cercle, les chansons, les jeux, les histoires et des centres d'apprentissage varies (art, science, maths, ecriture, dramatique).",
+          "text": "Les enfants apprennent par le cercle, les chansons, les jeux, les histoires et des centres d'apprentissage variés (art, science, maths, écriture, dramatique).",
           "bullets": [
-            "Le vocabulaire et les sons francais sont introduits graduellement.",
-            "Les enfants explorent a leur rythme en petits groupes.",
-            "L'apprentissage est thematique et base sur le jeu."
+            "Le vocabulaire et les sons français sont introduits graduellement.",
+            "Les enfants explorent à leur rythme en petits groupes.",
+            "L'apprentissage est thématique et basé sur le jeu."
           ]
         },
         {
           "title": "Objectifs",
           "bullets": [
-            "Developper la motricite fine et globale.",
-            "Encourager l'autonomie et les habiletes de vie quotidienne.",
-            "Renforcer les habiletes sociales, l'empathie et le respect.",
-            "Developper la confiance en soi et la responsabilite.",
-            "Favoriser la resolution de problemes et le gout d'apprendre."
+            "Développer la motricité fine et globale.",
+            "Encourager l'autonomie et les habiletés de vie quotidienne.",
+            "Renforcer les habiletés sociales, l'empathie et le respect.",
+            "Développer la confiance en soi et la responsabilité.",
+            "Favoriser la résolution de problèmes et le goût d'apprendre."
           ]
         }
       ]
