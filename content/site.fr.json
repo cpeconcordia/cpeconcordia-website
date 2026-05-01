@@ -93,5 +93,6 @@
   "messagePlaceholder": "Dites-nous comment nous pouvons vous aider…",
   "sendButton": "Envoyer le message",
   "sentButton": "Message envoyé",
-  "footerLang": "Anglais | Français"
+  "footerLang": "Anglais | Français",
+  "footerPrivacy": "Ce site enregistre votre préférence de langue dans votre navigateur. Aucune donnée personnelle n'est collectée ou transmise."
 }

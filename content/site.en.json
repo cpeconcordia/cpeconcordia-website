@@ -93,5 +93,6 @@
   "messagePlaceholder": "Tell us how we can help...",
   "sendButton": "Send message",
   "sentButton": "Message sent",
-  "footerLang": "English | Francais"
+  "footerLang": "English | Francais",
+  "footerPrivacy": "This site stores your language preference in your browser. No personal data is collected or transmitted."
 }
