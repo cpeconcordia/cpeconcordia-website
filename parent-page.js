@@ -90,7 +90,7 @@ function renderLinks(links, container) {
   links.forEach((link) => {
     const a = document.createElement("a");
     a.className = "btn btn-primary";
-    a.href = link.url;
+    a.href = typeof link.url === "object" ? (link.url[state.currentLanguage] || link.url.en) : link.url;
     a.target = "_blank";
     a.rel = "noreferrer";
     a.textContent = link.label[state.currentLanguage] || link.label.en;

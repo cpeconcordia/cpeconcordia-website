@@ -26,7 +26,10 @@
           "en": "Register on the Portal MFA",
           "fr": "S'inscrire sur le portail du MFA"
         },
-        "url": "https://www.laplace0-5.com/"
+        "url": {
+          "en": "https://www.quebec.ca/en/family-and-support-for-individuals/childhood/childcare-centres/registration-portal/parents/parents-access",
+          "fr": "https://www.quebec.ca/famille-et-soutien-aux-personnes/enfance/garderies-et-services-de-garde/portail-inscription/parents/acceder-parents"
+        }
       },
       {
         "label": {
