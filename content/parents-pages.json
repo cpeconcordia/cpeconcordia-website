@@ -6,7 +6,7 @@
     },
     "intro": {
       "en": "Our waiting list is managed by an external organization, Registration Portal of the MFA. Please contact them directly for more detailed information.",
-      "fr": "Notre liste d'attente est gérée par un organisme externe, La Place 0-5. Veuillez communiquer directement avec eux pour plus de détails."
+      "fr": "Notre liste d'attente est gérée par un organisme externe, le portail du MFA. Veuillez communiquer directement avec eux pour plus de détails."
     },
     "paragraphs": {
       "en": [
@@ -15,7 +15,7 @@
         "By bringing daycare services together in one place, the platform helps families make informed decisions according to their needs and location."
       ],
       "fr": [
-        "La Place 0-5 centralise l'inscription pour les CPE subventionnés du Québec et plusieurs garderies, ce qui facilite la comparaison pour les familles.",
+        "Le portail du MFA centralise l'inscription pour les CPE subventionnés du Québec et plusieurs garderies, ce qui facilite la comparaison pour les familles.",
         "Pendant les périodes de transition, certaines garderies peuvent ne pas encore y figurer. Les familles peuvent aussi consulter la carte des services de garde du Québec.",
         "En regroupant les services de garde, la plateforme aide les familles à prendre une décision selon leurs besoins et leur secteur."
       ]
@@ -24,7 +24,7 @@
       {
         "label": {
           "en": "Register on the Portal MFA",
-          "fr": "S'inscrire sur La Place 0-5"
+          "fr": "S'inscrire sur le portail du MFA"
         },
         "url": "https://www.laplace0-5.com/"
       },
@@ -124,8 +124,8 @@
         },
         {
           "q": "Comment inscrire mon enfant au CPE Concordia ?",
-          "a": "Consultez la page Admissions et inscrivez-vous via La Place 0-5.",
-          "aHtml": "Consultez la <a href=\"admissions.html\">page Admissions</a> et inscrivez-vous via La Place 0-5."
+          "a": "Consultez la page Admissions et inscrivez-vous via le portail du MFA.",
+          "aHtml": "Consultez la <a href=\"admissions.html\">page Admissions</a> et inscrivez-vous via le portail du MFA."
         },
         {
           "q": "Le CPE fournit-il les repas ?",
