@@ -341,7 +341,7 @@
     "image": "../images/groups/butterfly.jpeg",
     "description": {
       "en": "The Butterflies provides services for children aged between three years and eleven months to four years and four months and it is led by two educators.",
-      "fr": "La classe des Papillons est dirigée par trois éducatrices et prépare les enfants à la maternelle grâce à des apprentissages bilingues, socio-émotionnels et des activités thématiques structurées."
+      "fr": "La classe des Papillons accueille des enfants âgés de trois ans et onze mois à quatre ans et quatre mois. Elle est encadrée par deux éducatrices."
     },
     "sections": {
       "en": [
@@ -421,25 +421,77 @@
       ],
       "fr": [
         {
-          "title": "Accueil",
-          "text": "Le mois de septembre peut être excitant et parfois exigeant. L'équipe collabore avec les familles pour une adaptation positive et une bonne préparation scolaire.",
+          "title": "BIENVENUE DANS LA CLASSE DES PAPILLONS !"
+        },
+        {
+          "title": "BUTS ET OBJECTIFS"
+        },
+        {
+          "text": "Les buts sont de permettre aux enfants d'acquérir des connaissances de base et une première compréhension de la langue française afin de les aider à communiquer avec leurs éducatrices et leurs pairs."
+        },
+        {
+          "text": "Le programme de français des Papillons intègre les cinq sphères de développement de l'enfant, soit le développement cognitif, physique, créatif, social et émotionnel. Ces cinq sphères sont intégrées à notre programme quotidien en français et contribuent au développement global de l'enfant lors des causeries, des centres d'apprentissage, des périodes de transition, des activités au gymnase et des jeux extérieurs."
+        },
+        {
+          "text": "Les objectifs du groupe sont les suivants :"
+        },
+        {
+          "title": "Développement cognitif",
           "bullets": [
-            "Compléter et remettre les formulaires rapidement.",
-            "Favoriser les vérifications de la vue et de l'audition.",
-            "Travailler la motricité fine à la maison.",
-            "Renforcer l'hygiène et maintenir une bonne communication.",
-            "S'impliquer activement dans les apprentissages de l'enfant."
+            "Utiliser du vocabulaire simple en français.",
+            "Développer une compréhension de la langue française.",
+            "Reconnaître les couleurs et les formes.",
+            "Reconnaître les lettres.",
+            "Reconnaître les nombres de 1 à 20.",
+            "Reconnaître leur prénom et commencer à l'écrire.",
+            "Commencer à développer leur pensée critique.",
+            "Accepter et suivre les règles de la classe."
           ]
         },
         {
-          "title": "Objectifs",
-          "text": "Le programme de français intègre les volets cognitif, physique, créatif et socio-émotionnel.",
+          "title": "Développement physique",
           "bullets": [
-            "Cognitif : vocabulaire français, lettres, formes, couleurs, nombres, réflexion.",
-            "Physique : équilibre, saut, coordination, grimper, lancer.",
-            "Créatif : arts, créations 2D/3D, exploration scientifique et mathématique.",
-            "Socio-émotionnel : empathie, gestion des conflits, tour de rôle, estime de soi."
+            "Marcher en posant le talon devant les orteils et courir avec aisance.",
+            "Courir, démarrer, s'arrêter et contourner des obstacles avec facilité.",
+            "Sauter habilement sur un pied.",
+            "Apprendre à sautiller en alternant les pieds.",
+            "Galoper avec aisance.",
+            "Sauter en longueur, environ trois pieds.",
+            "Attraper et lancer un ballon avec habileté.",
+            "Commencer à coordonner leurs mouvements pour grimper sur une structure de jeux."
           ]
+        },
+        {
+          "title": "Développement créatif",
+          "bullets": [
+            "Utiliser divers matériaux artistiques de façon créative, seul ou en groupe.",
+            "Utiliser des outils et du matériel d'art pour créer des œuvres en deux ou trois dimensions.",
+            "Développer leur créativité grâce à de simples expériences de mathématiques et de sciences.",
+            "Développer leur créativité à travers des activités liées à l'environnement, y compris des activités dans la cour extérieure ou lors de sorties éducatives.",
+            "Utiliser leur imagination pour s'exprimer lors des jeux symboliques."
+          ]
+        },
+        {
+          "title": "Développement social et émotionnel",
+          "bullets": [
+            "Utiliser leurs mots lorsqu'ils vivent un conflit avec leurs pairs.",
+            "Apprendre à écouter lorsque les autres parlent.",
+            "Faire preuve d'empathie et de respect envers les autres.",
+            "Apprendre à attendre leur tour durant les activités en classe.",
+            "Développer une bonne estime d'eux-mêmes."
+          ]
+        },
+        {
+          "text": "Tout au long de l'année, nous intégrerons différentes activités à nos thèmes, telles que l'art, la musique, le théâtre, le mouvement, les histoires, les mathématiques et les sciences."
+        },
+        {
+          "text": "Nous ferons également quelques sorties en autobus et en métro. Afin d'assurer le succès de ces sorties, nous aurons besoin de parents bénévoles. Cela est nécessaire pour maintenir nos excellents ratios et assurer la sécurité des enfants."
+        },
+        {
+          "text": "Cette année, il y aura deux évaluations de votre enfant. La première aura lieu à la fin septembre ou au début octobre. Elle portera sur l'adaptation de votre enfant et sur ce que nous pourrions faire pour améliorer son expérience. La deuxième évaluation aura lieu à la fin mai. Elle sera écrite et pourra être utilisée pour les démarches d'admission à l'école."
+        },
+        {
+          "text": "À la fin octobre, nous commencerons l'alphabet en introduisant une lettre par semaine. Nous utiliserons un cahier qui sera remis à votre enfant en juin, lorsque nous aurons terminé l'alphabet."
         }
       ]
     }
@@ -456,7 +508,7 @@
     "image": "../images/groups/penguin.jpeg",
     "description": {
       "en": "The Penguins group provides services for children aged between four years and five months to four years and eleven months old and it is led by two educators.",
-      "fr": "La classe des Pingouins est dirigée par deux éducatrices et soutient la préparation à la maternelle par un apprentissage axé sur le jeu, une exposition bilingue et le développement socio-émotionnel."
+      "fr": "Le groupe des Pingouins accueille des enfants âgés de quatre ans et cinq mois à quatre ans et onze mois. Il est encadré par deux éducatrices."
     },
     "sections": {
       "en": [
@@ -488,23 +540,33 @@
       ],
       "fr": [
         {
-          "title": "Programme",
-          "text": "Les enfants apprennent par le cercle, les chansons, les jeux, les histoires et des centres d'apprentissage variés (art, science, maths, écriture, dramatique).",
+          "title": "BIENVENUE DANS LA CLASSE DES PINGOUINS !",
           "bullets": [
-            "Le vocabulaire et les sons français sont introduits graduellement.",
-            "Les enfants explorent à leur rythme en petits groupes.",
-            "L'apprentissage est thématique et basé sur le jeu."
+            "Notre programme offre à votre enfant des occasions d'apprendre des concepts à travers une variété d'expériences axées sur le jeu. Lors des causeries, nous nous réunissons en groupe pour discuter du thème de la semaine. Nous chantons des chansons, jouons à des jeux et lisons des livres ou des poèmes liés au thème.",
+            "Le volet français du programme a pour objectif d'enrichir le vocabulaire en français et de favoriser le plaisir d'apprendre une nouvelle langue.",
+            "Après la causerie, votre enfant choisit parmi différents centres d'apprentissage, comme les arts, les livres, les jeux, le théâtre, les sciences, les mathématiques ou l'écriture. Dans ces centres, votre enfant explore, expérimente et apprend à utiliser différents matériaux, à son propre rythme, dans un contexte de jeu en petit groupe."
           ]
         },
         {
-          "title": "Objectifs",
+          "title": "Buts et objectifs"
+        },
+        {
+          "title": "Nos buts et objectifs pour la classe des Pingouins sont les suivants :",
           "bullets": [
-            "Développer la motricité fine et globale.",
-            "Encourager l'autonomie et les habiletés de vie quotidienne.",
-            "Renforcer les habiletés sociales, l'empathie et le respect.",
-            "Développer la confiance en soi et la responsabilité.",
-            "Favoriser la résolution de problèmes et le goût d'apprendre."
+            "Favoriser le développement de la motricité fine, comme découper, dessiner et écrire en lettres moulées.",
+            "Encourager le développement de la motricité globale, comme courir, sauter et grimper.",
+            "Développer l'autonomie, comme s'habiller seul, adopter de bonnes habitudes à table et ranger.",
+            "Promouvoir les habiletés prosociales, comme écouter les autres, partager, attendre son tour, aider, respecter les autres, entretenir des interactions sociales positives et faire preuve de bienveillance.",
+            "Reconnaître et comprendre ses propres émotions ainsi que celles des autres.",
+            "Développer l'estime de soi et la confiance.",
+            "Apprendre à assumer la responsabilité de ses actions.",
+            "Développer des habiletés de résolution de problèmes.",
+            "Développer une attitude positive envers l'apprentissage.",
+            "Soutenir l'apprentissage grâce à des activités en petits et grands groupes."
           ]
+        },
+        {
+          "text": "Les objectifs de notre programme sont d'accompagner votre enfant dans le développement de son identité, dans la création de relations positives avec les éducatrices et ses pairs, ainsi que dans une meilleure compréhension de son environnement et de sa communauté, afin de bien le préparer à son entrée à la maternelle."
         }
       ]
     }
