@@ -254,7 +254,7 @@
     "image": "../images/groups/teddybear.jpeg",
     "description": {
       "en": "The Teddy Bears provides services for children aged between three years and four months to three years and ten months and it is led by two educators.",
-      "fr": "La classe des Oursons est dirigée par deux éducatrices et mise sur le développement global de l'enfant grâce à un programme bilingue, structuré et riche en jeu."
+      "fr": "La classe des Oursons offre des services aux enfants âgés de trois ans et quatre mois à trois ans et dix mois. La classe est dirigée par deux éducatrices."
     },
     "sections": {
       "en": [
@@ -294,32 +294,36 @@
       ],
       "fr": [
         {
-          "title": "Accueil et informations aux familles",
+          "title": "BIENVENUE DANS LA CLASSE DES OURSONS !",
+          "text": "Nous avons hâte d'apprendre et de grandir avec votre enfant. Les informations suivantes vous donneront une description de notre programme et de notre horaire quotidien."
+        },
+        {
+          "title": "Buts et objectifs"
+        },
+        {
+          "title": "Nos buts et objectifs pour la classe des Oursons sont les suivants :",
           "bullets": [
-            "Encourager l'enfant à s'habiller seul à l'intérieur et à l'extérieur.",
-            "Privilégier des chaussures à velcro.",
-            "Apporter une petite couverture et un petit oreiller pour le repos.",
-            "Pendant le cercle, attendre l'aide d'une éducatrice pour les transitions."
+            "Offrir à votre enfant une expérience positive au CPE.",
+            "Stimuler les processus de réflexion de chaque enfant afin de favoriser une meilleure compréhension, une plus grande conscience et la curiosité.",
+            "Encourager le partage et la coopération.",
+            "Offrir à chaque enfant des occasions de s'exprimer par le langage, le jeu dramatique, l'art, la musique et le jeu.",
+            "Aider chaque enfant à reconnaître les sentiments et les biens des autres.",
+            "Encourager l'enfant à résoudre des problèmes de façon autonome.",
+            "Encourager l'autonomie dans les soins personnels.",
+            "Encourager les pratiques de sécurité au CPE et à l'extérieur.",
+            "Favoriser le développement créatif et artistique libre de l'enfant en offrant plusieurs médiums différents pour l'expression créative.",
+            "Maintenir une communication fréquente entre nous et les parents au sujet du développement global de votre enfant."
           ]
         },
         {
-          "title": "Objectifs",
+          "title": "Notre programme",
+          "text": "Notre programme bilingue est un programme structuré axé sur l'enseignement et l'accompagnement de l'enfant dans sa globalité. Nous valorisons et encourageons le développement cognitif, émotionnel et social, ainsi que le développement de la motricité fine et globale. Nous croyons aussi que le choix et le jeu libre sont essentiels. Les enfants ont un élan naturel à explorer et à créer. Nous voulons les encourager et leur offrir des expériences d'apprentissage positives grâce à une variété d'occasions de jeu guidé. Notre programme bilingue offrira aux enfants des occasions de :",
           "bullets": [
-            "Rendre l'expérience préscolaire positive et valorisante.",
-            "Stimuler curiosité, compréhension et réflexion.",
-            "Encourager partage, coopération et expression de soi.",
-            "Soutenir autonomie, sécurité et créativité.",
-            "Maintenir une communication fréquente avec les parents."
-          ]
-        },
-        {
-          "title": "Programme",
-          "text": "Programme bilingue structuré qui favorise le développement cognitif, émotionnel, social, moteur fin et global, avec jeu libre et jeu guidé.",
-          "bullets": [
-            "Intellectuel : résoudre des problèmes et communiquer.",
-            "Social : coopérer, négocier, participer en groupe.",
-            "Physique : dessiner, découper, s'habiller, bouger.",
-            "Émotionnel et créatif : faire des choix, s'exprimer, créer."
+            "se développer sur le plan intellectuel, grâce à des activités qui les invitent à réfléchir, à résoudre des problèmes, à communiquer et à découvrir de nouveaux concepts;",
+            "se développer sur le plan social, grâce à des occasions de coopérer, de négocier, d'initier des interactions avec leurs pairs et de participer à des activités de groupe;",
+            "se développer sur le plan physique, grâce à des occasions de découper, dessiner, lacer, se déguiser, verser, tamiser et secouer, ainsi que danser, bouger et s'étirer;",
+            "se développer sur le plan émotionnel, grâce à des occasions de s'exprimer, de faire des choix, de prendre des risques et de réussir;",
+            "se développer sur le plan créatif, grâce à des occasions d'essayer, de faire des choix, de résoudre des problèmes, d'accomplir des tâches et de créer."
           ]
         }
       ]
