@@ -792,6 +792,76 @@ body.lightbox-open {
   font-size: 0.9rem;
 }
 
+.footer-privacy-link {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.footer-privacy-link:hover {
+  color: var(--accent);
+}
+
+#cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--ink);
+  color: #fff;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  z-index: 9999;
+  flex-wrap: wrap;
+}
+
+.cookie-banner-text {
+  margin: 0;
+  flex: 1;
+  font-size: 0.875rem;
+  color: #fff;
+  min-width: 200px;
+}
+
+.cookie-banner-text a {
+  color: var(--accent-2);
+  text-decoration: underline;
+}
+
+.cookie-banner-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.cookie-btn {
+  padding: 0.45rem 1.25rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.cookie-btn-accept {
+  background: var(--accent);
+  color: #fff;
+}
+
+.cookie-btn-decline {
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.cookie-btn-decline:hover {
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(14px);
